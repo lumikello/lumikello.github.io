@@ -3,101 +3,101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/ru/categories/</loc>
+    <loc>/ru/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://www.example.com/fi/categories/"
+                href="/fi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.example.com/ru/categories/"
+                href="/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ru/</loc>
+    <loc>/ru/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://www.example.com/fi/"
+                href="/fi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.example.com/ru/"
+                href="/ru/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ru/page/</loc>
+    <loc>/ru/page/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/page/"
+                href="/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://www.example.com/fi/page/"
+                href="/fi/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.example.com/ru/page/"
+                href="/ru/page/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ru/tags/</loc>
+    <loc>/ru/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://www.example.com/fi/tags/"
+                href="/fi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.example.com/ru/tags/"
+                href="/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ru/page/about/</loc>
+    <loc>/ru/page/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/page/about/"
+                href="/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://www.example.com/fi/page/about/"
+                href="/fi/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://www.example.com/ru/page/about/"
+                href="/ru/page/about/"
                 />
   </url>
   

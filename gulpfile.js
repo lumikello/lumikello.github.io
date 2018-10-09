@@ -18,8 +18,14 @@ gulp.task("materialize-js", function () {
         .pipe(gulp.dest("themes/lumikello/static/js"));
 });
 
+gulp.task("jquery", function () {
+    gulp.src("node_modules/jquery/dist/jquery.min.js")
+        .pipe(gulp.dest("themes/lumikello/static/js"));
+});
+
 // Watch asset folder for changes
-gulp.task("watch", ["scss"], function () {
+gulp.task("watch", ["scss", "materialize-js", "jquery"], function () {
     gulp.watch("src/scss/**/*", ["scss"]);
 	gulp.watch("node_modules/materialize-css/dist/js/**/*", ["materialize-js"]);
+	gulp.watch("node_modules/jquery/dist/js/**/*", ["jquery"]);
 });

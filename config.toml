@@ -1,3 +1,112 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://www.example.com"
+title = "Lumikello Ry"
+
+theme = "lumikello"
+
+languagecode = "en"
+DefaultContentLanguage = "en"
+
+paginate = 10
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Lumikello Ry"
+    avatar = "images/logo.svg"
+
+
+    hideCredits = false
+    hideCopyright = false
+
+    rtl = false
+
+    # Custom CSS
+    custom_css = []
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab"
+    weight = 2
+    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/johndoe/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/johndoe/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 5
+    url = "https://medium.com/@johndoe"
+
+[languages]
+    [languages.en]
+        author = "Lumikello Ry"
+        languagename = "English" # The language name to be displayed in the selector.
+        contentDir = "content/en"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+        description = "non-profit charity organization Lumikello Ry"
+        keywords = "non-profit,charity,Lumikello,Kuopio,Suomi"
+        info = ""
+
+        dateformat = "January 2, 2006"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1.0
+            url = "/page/about/"
+
+    [languages.ru]
+        languagename = "Русский"
+        contentDir = "content/ru"
+
+        [languages.ru.params]
+            author = "Лумикелло Рю"
+            description = "благотворительная организация Лумикелло Рю"
+            keywords = "благотворительная организация,благотворительномть,Лумикелло,Lumikello,Куопио,Финляндия"
+            info = ""
+
+        dateformat = "2 January 2006"
+
+        [languages.ru.menu]
+
+            [[languages.ru.menu.main]]
+            name = "О нас"
+            weight = 1.0
+            url = "/page/about/"
+
+    [languages.fi]
+        languagename = "Suomi"
+        contentDir = "content/fi"
+
+        [languages.fi.params]
+            author = "Lumikello Ry"
+            description = "yleishyödyllinen hyväntekeväisyyden liitto Lumikello Ry"
+            keywords = "kansalaisjärjestö,yleishyödyllisyys,hyväntekeväisyys,Lumikello,Kuopio,Suomi"
+            info = ""
+
+            dateformat = "2 January 2006"
+
+        [languages.fi.menu]
+
+            [[languages.fi.menu.main]]
+            name = "Me"
+            weight = 1.0
+            url = "/page/about/"

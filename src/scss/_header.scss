@@ -1,7 +1,13 @@
 @import 'variables';
-
 button[type=bars] {
     width: 3rem;
     font-size: 2em;
     color: $color_white;
+}
+
+ul[role=languages] {
+    a>img {
+        width: 1em;
+        height: 0.75em;
+    }
 }

@@ -53,20 +53,12 @@
 <div id="main-menu-sidenav" data-role="sidenav" class="sidenav">
 
   {{ i18n "selectLanguage"}}
-  <ul>
+  <ul role="languages">
   {{ if .Site.IsMultiLingual }}
-    {{ $node := . }}
-    {{ .Scratch.Set "separator" true }}
     {{ range .Site.Home.AllTranslations }}
       {{ if ne $.Site.Language .Language }}
-        {{ if $node.Scratch.Get "separator" }}
-          <li class="navigation-item menu-separator">
-            <span>|</span>
-          </li>
-          {{ $node.Scratch.Set "separator" false }}
-        {{ end }}
         <li class="navigation-item">
-          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          <a href="{{ .Permalink }}"><img src="/images/flags/{{ .Language }}.svg" class=""> {{ .Language.LanguageName }}</a>
         </li>
       {{ end }}
     {{ end }}

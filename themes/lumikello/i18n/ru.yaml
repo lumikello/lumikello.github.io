@@ -1,3 +1,5 @@
 # Navigation
 - id: toggleNavigation
   translation: "Открыть/закрыть меню"
+- id: selectLanguage
+  translation: "Выберите язык"

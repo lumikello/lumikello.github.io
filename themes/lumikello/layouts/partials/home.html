@@ -1,8 +1,11 @@
+<section>
+  <div >
+    <div ><img src="/images/home.jpg"></div>
+  </div>
+</section>
+
 <section class="container centered">
   <div class="about">
-    {{ with .Site.Params.avatar }}
-      <div class="avatar"><img src="{{ . }}" alt="avatar"></div>
-    {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
     <h2>{{ .Site.Params.info }}</h2>
     {{ with .Site.Params.social }}

@@ -1,3 +1,5 @@
 # Navigation
 - id: toggleNavigation
   translation: "Toggle navigation"
+- id: selectLanguage
+  translation: "Select language"

@@ -1,3 +1,5 @@
 # Navigation
 - id: toggleNavigation
   translation: "Näytä/piilota navigointi"
+- id: selectLanguage
+  translation: "Valitse kieli"

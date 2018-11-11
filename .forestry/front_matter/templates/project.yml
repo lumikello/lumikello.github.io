@@ -12,6 +12,8 @@ fields:
   name: date
   label: Date
   hidden: false
+  config:
+    required: true
 - type: number
   name: order
   label: Order

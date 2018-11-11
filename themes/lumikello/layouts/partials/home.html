@@ -33,16 +33,26 @@
   <section>
 
       <div class="card">
+
+        <div class="card-image">
+          {{ if .Params.picture }}
+          <img src="{{ .Params.picture }}" title="{{ .Title }}" />
+          {{ end }}
+          <h4 class="card-title"><a href="{{ .URL }}">{{ .Title }}</a></h4>
+        </div>
+
         <div class="card-content">
-          {{ with .Title }}
-          <h3 class="card-title">{{ . }}</h3>
+          {{ if not .Params.picture }}
+             <h4 class="card-title"><a href="{{ .URL }}">{{ .Title }}</a></h4>
           {{ end }}
-          {{ with .Description }}
-            <p>{{ . }}</p>
+          {{ if .Description }}
+            <p>{{ .Description | markdownify }}</p>
           {{ end }}
+
+          
         </div>
         <div class="card-action">
-          <a href="{{ .URL }}"> Next </a>
+          <a href="{{ .URL }}"> {{ if .Params.more }}  {{ else }} {{ i18n "openProject" }} {{ end }}</a>
         </div>
       </div>
 

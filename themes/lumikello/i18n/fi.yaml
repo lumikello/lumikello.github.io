@@ -3,3 +3,5 @@
   translation: "Näytä/piilota navigointi"
 - id: selectLanguage
   translation: "Valitse kieli"
+- id: openProject
+  translation: "Lue lisä"

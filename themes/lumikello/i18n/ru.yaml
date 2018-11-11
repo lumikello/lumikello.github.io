@@ -3,3 +3,5 @@
   translation: "Открыть/закрыть меню"
 - id: selectLanguage
   translation: "Выберите язык"
+- id: openProject
+  translation: "Подробнее о проекте"

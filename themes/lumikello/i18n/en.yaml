@@ -3,3 +3,5 @@
   translation: "Toggle navigation"
 - id: selectLanguage
   translation: "Select language"
+- id: openProject
+  translation: "more information"

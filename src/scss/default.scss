@@ -23,8 +23,7 @@ body {
         right: 0;
         bottom: 0;
         top: 0;
-        position: fixed;
-        // background-image: url('/images/tomoko-uji-601010-unsplash.jpg');
+        position: fixed; // background-image: url('/images/tomoko-uji-601010-unsplash.jpg');
     }
     >header,
     >main {
@@ -50,5 +49,33 @@ input[type="reset"] {
     outline: inherit;
 }
 
-
-
+.home-projects {
+    display: flex;
+    flex-wrap: wrap;
+    &>section {
+        display: flex;
+        &:nth-child(4n+1) {
+            flex-basis: 40%;
+        }
+        &:nth-child(4n+2) {
+            flex-basis: 60%
+        }
+        &:nth-child(4n+3) {
+            flex-basis: 60%
+        }
+        &:nth-child(4n+4) {
+            flex-basis: 40%
+        }
+        &:last-child {
+            flex-basis: 100%
+        }
+        .card {
+            display: flex;
+            flex: 1 1 auto;
+            flex-direction: column;
+            .card-content {
+                flex: 1 1 auto;
+            }
+        }
+    }
+}

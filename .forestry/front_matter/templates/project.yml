@@ -31,6 +31,7 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/en/project/somatics.md
 - content/fi/project/theatre.md
 - content/fi/project/somatics.md
 - content/fi/project/ru-culture-studio.md
@@ -41,7 +42,6 @@ pages:
 - content/fi/project/art-studio.md
 - content/fi/project/adaptation-camp.md
 - content/en/project/theatre.md
-- content/en/project/somatics.md
 - content/en/project/ru-culture-studio.md
 - content/en/project/porcelain-studio.md
 - content/en/project/finnish-advanced.md

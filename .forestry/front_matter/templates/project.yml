@@ -29,4 +29,5 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/ru/project/adaptation-camp.md
 - content/ru/project/art-studio.md

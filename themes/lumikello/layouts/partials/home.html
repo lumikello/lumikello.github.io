@@ -4,6 +4,7 @@
   </div>
 </section>
 
+<!--
 <section class="container centered">
   <div class="about">
     <h1>{{ .Site.Params.author }}</h1>
@@ -21,3 +22,34 @@
     {{ end }}
   </div>
 </section>
+-->
+
+<main>
+
+{{ range where ( .Site.Pages.ByParam "order" ) "Section" "project" }}
+
+  {{ if .Title }}
+
+  <section>
+
+      <div class="card">
+        <div class="card-content">
+          {{ with .Title }}
+          <h3 class="card-title">{{ . }}</h3>
+          {{ end }}
+          {{ with .Description }}
+            <p>{{ . }}</p>
+          {{ end }}
+        </div>
+        <div class="card-action">
+          <a href="{{ .URL }}"> Next </a>
+        </div>
+      </div>
+
+  </section>
+
+  {{ end }}
+
+{{ end }}
+
+</main>

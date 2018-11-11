@@ -3,6 +3,206 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/fi/project/somatics/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/somatics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/somatics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/somatics/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/finnish-advanced/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/finnish-advanced/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/finnish-advanced/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/finnish-advanced/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/adaptation-camp/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/adaptation-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/adaptation-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/adaptation-camp/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/dance-school/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/dance-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/dance-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/dance-school/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/direct-aid/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/direct-aid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/direct-aid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/direct-aid/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/art-studio/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/art-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/art-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/art-studio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/porcelain-studio/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/porcelain-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/porcelain-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/porcelain-studio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/ru-culture-studio/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/ru-culture-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/ru-culture-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/ru-culture-studio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/theatre/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/theatre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/theatre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/theatre/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fi/project/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/fi/project/"
+                />
+  </url>
+  
+  <url>
     <loc>/fi/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -24,6 +224,7 @@
   
   <url>
     <loc>/fi/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

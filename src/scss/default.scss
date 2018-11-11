@@ -54,17 +54,22 @@ input[type="reset"] {
     flex-wrap: wrap;
     &>section {
         display: flex;
-        &:nth-child(4n+1) {
-            flex-basis: 40%;
+        @media #{$large-and-up} {
+            &:nth-child(4n+1) {
+                flex-basis: 40%;
+            }
+            &:nth-child(4n+2) {
+                flex-basis: 60%;
+            }
+            &:nth-child(4n+3) {
+                flex-basis: 60%;
+            }
+            &:nth-child(4n+4) {
+                flex-basis: 40%;
+            }
         }
-        &:nth-child(4n+2) {
-            flex-basis: 60%;
-        }
-        &:nth-child(4n+3) {
-            flex-basis: 60%;
-        }
-        &:nth-child(4n+4) {
-            flex-basis: 40%;
+        @media #{$medium-and-up} {
+            flex-basis: 50%;
         }
         &:nth-child(5n+1) {
             .card {

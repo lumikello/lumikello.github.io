@@ -1,0 +1,30 @@
+---
+label: Project
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  hidden: false
+- type: number
+  name: order
+  label: Order
+  config:
+    required: false
+  default: '0'
+- type: textarea
+  label: Description
+  name: description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  label: Picture
+  name: picture

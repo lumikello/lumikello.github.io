@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>/ru/sitemap.xml</loc>
-		
-	   	<lastmod>2018-11-11T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>/fi/sitemap.xml</loc>
 		
 	   	<lastmod>2018-11-11T00:00:00+00:00</lastmod>
@@ -17,6 +10,13 @@
 	
 	<sitemap>
 	   	<loc>/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-11-11T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/ru/sitemap.xml</loc>
 		
 	   	<lastmod>2018-11-11T00:00:00+00:00</lastmod>
 		

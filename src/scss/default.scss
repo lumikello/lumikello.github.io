@@ -39,6 +39,9 @@ body {
       }
     }
     & > main {
+      flex: 1 1 auto;
+      min-height: 100vh;
+
       & > header {
         display: flex;
         padding: 1rem 0;

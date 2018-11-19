@@ -1,4 +1,4 @@
-#main-menu-sidenav {
+.sidenav {
   section {
     &:not(:last-child) {
       border-bottom: 1px solid rgba(33, 33, 55, 0.2);
@@ -10,5 +10,11 @@
       font-size: 1.2em;
       font-weight: 600;
     }
+  }
+  li > a {
+    padding: 1rem 1.5rem;
+    line-height: 1.5em;
+    font-size: 1em;
+    font-weight: 500;
   }
 }

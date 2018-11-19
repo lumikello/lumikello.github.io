@@ -5,3 +5,7 @@
   translation: "Выберите язык"
 - id: openProject
   translation: "Подробнее о проекте"
+- id: projects
+  translation: "Наши проекты"
+- id: organization
+  translation: "Организация"

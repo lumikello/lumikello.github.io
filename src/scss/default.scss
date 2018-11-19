@@ -1,155 +1,188 @@
-@import 'materialize';
-@import 'header';
+@import "materialize";
+@import "header";
+@import "sidenav";
 .navigation-list {
-    display: flex;
+  display: flex;
 }
 
 body {
-    &>header {
+  & > main {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0 auto;
+    max-width: 900px;
+
+    & > nav {
+      background-color: rgba(100, 140, 200, 0.3);
+      min-width: 3em;
+      & > div {
+        display: flex;
+        position: fixed;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+        section:first-child {
+          margin-top: 1rem;
+        }
+        section:last-child {
+          display: flex;
+          flex: 1 1 auto;
+          align-items: flex-end;
+          margin-bottom: 1rem;
+          a {
+            display: block;
+            width: 3em;
+            height: 3em;
+            text-align: center;
+          }
+        }
+      }
+    }
+    & > main {
+      & > header {
         display: flex;
         padding: 1rem 0;
-        &>.avatar {
-            margin: 0 auto;
-            padding-right: 3rem; // sompensate menu button with
+        & > .avatar {
+          margin: 0 auto;
         }
-    }
-    &::before {
-        background-size: cover;
-        background-attachment: fixed;
-        content: '';
-        will-change: transform;
-        z-index: -1;
-        left: 0;
+      }
+      &::before {
+        position: fixed; // background-image: url('/images/tomoko-uji-601010-unsplash.jpg');
+        top: 0;
         right: 0;
         bottom: 0;
-        top: 0;
-        position: fixed; // background-image: url('/images/tomoko-uji-601010-unsplash.jpg');
-    }
-    >header,
-    >main {
-        max-width: 900px;
+        left: 0;
+        z-index: -1;
+        background-attachment: fixed;
+        background-size: cover;
+        content: "";
+        will-change: transform;
+      }
+      > header,
+      > main {
         padding: 0 1rem;
-        margin: 0 auto;
+      }
     }
+  }
 }
 
 img {
-    width: 100%;
+  width: 100%;
 }
 
 button,
 input[type="submit"],
 input[type="reset"] {
-    background: none;
-    color: inherit;
-    border: none;
-    padding: 0;
-    font: inherit;
-    cursor: pointer;
-    outline: inherit;
+  outline: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+  font: inherit;
 }
 
 .home-projects {
+  display: flex;
+  flex-wrap: wrap;
+  & > section {
     display: flex;
-    flex-wrap: wrap;
-    &>section {
-        display: flex;
-        @media #{$large-and-up} {
-            &:nth-child(4n+1) {
-                flex-basis: 40%;
-            }
-            &:nth-child(4n+2) {
-                flex-basis: 60%;
-            }
-            &:nth-child(4n+3) {
-                flex-basis: 60%;
-            }
-            &:nth-child(4n+4) {
-                flex-basis: 40%;
-            }
-        }
-        @media #{$medium-and-up} {
-            flex-basis: 50%;
-        }
-        &:nth-child(5n+1) {
-            .card {
-                background-color: rgba(200, 100, 200, 0.3);
-                .card-image .card-title {
-                    background-color: rgba(200, 100, 200, 0.7);
-                }
-            }
-        }
-        &:nth-child(5n+2) {
-            .card {
-                background-color: rgba(173, 200, 100, 0.3);
-                .card-image .card-title {
-                    background-color: rgba(173, 200, 100, 0.7);
-                }
-            }
-        }
-        &:nth-child(5n+3) {
-            .card {
-                background-color: rgba(100, 140, 200, 0.3);
-                .card-image .card-title {
-                    background-color: rgba(100, 140, 200, 0.7);
-                }
-            }
-        }
-        &:nth-child(5n+4) {
-            .card {
-                background-color: rgba(200, 107, 100, 0.3);
-                .card-image .card-title {
-                    background-color: rgba(200, 107, 100, 0.7);
-                }
-            }
-        }
-        &:nth-child(5n+5) {
-            .card {
-                background-color: rgba(100, 200, 150, 0.3);
-                .card-image .card-title {
-                    background-color: rgba(100, 200, 150, 0.7);
-                }
-            }
-        }
-        &:last-child {
-            flex-basis: 100%;
-        }
-        .card {
-            display: flex;
-            flex: 1 1 auto;
-            flex-direction: column;
-            .card-image {
-                height: 100%;
-                max-height: 320px;
-                overflow: hidden;
-                display: flex;
-                align-items: center;
-                img {
-                    height: 100%;
-                    object-fit: cover;
-                }
-                .card-title {
-                    a,
-                    a:focus,
-                    a:hover,
-                    a:active {
-                        color: #fff;
-                    }
-                }
-            }
-            .card-content {
-                flex: 1 1 auto;
-            }
-            .card-action {
-                a:not(.btn):not(.btn-large):not(.btn-floating) {
-                    &,
-                    &:focus,
-                    &:hover,
-                    &:active {
-                        color: #fff;
-                    }
-                }
-            }
-        }
+    @media #{$large-and-up} {
+      &:nth-child(4n + 1) {
+        flex-basis: 40%;
+      }
+      &:nth-child(4n + 2) {
+        flex-basis: 60%;
+      }
+      &:nth-child(4n + 3) {
+        flex-basis: 60%;
+      }
+      &:nth-child(4n + 4) {
+        flex-basis: 40%;
+      }
     }
+    @media #{$medium-and-up} {
+      flex-basis: 50%;
+    }
+    &:nth-child(5n + 1) {
+      .card {
+        background-color: rgba(200, 100, 200, 0.3);
+        .card-image .card-title {
+          background-color: rgba(200, 100, 200, 0.7);
+        }
+      }
+    }
+    &:nth-child(5n + 2) {
+      .card {
+        background-color: rgba(173, 200, 100, 0.3);
+        .card-image .card-title {
+          background-color: rgba(173, 200, 100, 0.7);
+        }
+      }
+    }
+    &:nth-child(5n + 3) {
+      .card {
+        background-color: rgba(100, 140, 200, 0.3);
+        .card-image .card-title {
+          background-color: rgba(100, 140, 200, 0.7);
+        }
+      }
+    }
+    &:nth-child(5n + 4) {
+      .card {
+        background-color: rgba(200, 107, 100, 0.3);
+        .card-image .card-title {
+          background-color: rgba(200, 107, 100, 0.7);
+        }
+      }
+    }
+    &:nth-child(5n + 5) {
+      .card {
+        background-color: rgba(100, 200, 150, 0.3);
+        .card-image .card-title {
+          background-color: rgba(100, 200, 150, 0.7);
+        }
+      }
+    }
+    &:last-child {
+      flex-basis: 100%;
+    }
+    .card {
+      display: flex;
+      flex: 1 1 auto;
+      flex-direction: column;
+      .card-image {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        max-height: 320px;
+        overflow: hidden;
+        img {
+          height: 100%;
+          object-fit: cover;
+        }
+        .card-title {
+          a,
+          a:focus,
+          a:hover,
+          a:active {
+            color: #fff;
+          }
+        }
+      }
+      .card-content {
+        flex: 1 1 auto;
+      }
+      .card-action {
+        a:not(.btn):not(.btn-large):not(.btn-floating) {
+          &,
+          &:focus,
+          &:hover,
+          &:active {
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
 }

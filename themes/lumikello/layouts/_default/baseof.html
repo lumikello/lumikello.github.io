@@ -1,53 +1,76 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.description }}
+  <meta name="description" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.keywords }}
+  <meta name="keywords" content="{{ . }}">{{ end }}
 
-    <base href="{{ .Site.BaseURL }}">
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <base href="{{ .Site.BaseURL }}">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-    <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="canonical" href="{{ .Permalink }}">
 
-    <link rel="stylesheet" href="css/default.css" media="screen">
+  <link rel="stylesheet" href="css/default.css" media="screen">
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/solid.css" integrity="sha384-VGP9aw4WtGH/uPAOseYxZ+Vz/vaTb1ehm1bwx92Fm8dTrE+3boLfF1SpAtB1z7HW" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/solid.css" integrity="sha384-VGP9aw4WtGH/uPAOseYxZ+Vz/vaTb1ehm1bwx92Fm8dTrE+3boLfF1SpAtB1z7HW"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7"
+    crossorigin="anonymous">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/images/favicon/site.webmanifest">
-    <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-  </head>
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+</head>
 
-  <body>
-    
-    {{ partial "header.html" . }}
-
-    <main class="wrapper">
-      <div class="content">
-        {{ block "content" . }}{{ end }}
-      </div>
-
-      {{ partial "footer.html" . }}
+<body id="top" class="scrollspy">
+  <main>
+    <main>
+      {{ partial "header.html" . }} 
+      
+      <main class="wrapper">
+        <div class="content">
+          {{ block "content" . }}{{ end }}
+        </div>
+        
+        {{ partial "footer.html" . }}
+      </main>
     </main>
-  </body>
+    <nav>
+      <div>
+        <section>
+          <button type="bars" data-target="main-menu-sidenav" title="{{ i18n "toggleNavigation" }}" class="sidenav-trigger">
+            <i class="fas fa-bars"></i>
+          </button>
+        </section>
+        <section>
+          <a href="#top">↑</a>
+        </section>
+      </div>
+    </nav>
+  </main>
 
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/materialize.min.js"></script>
+  {{ partial "sidebar.html" . }}
+</body>
 
-  <script>
-    $(document).ready(function(){
-      $('[data-role=sidenav]').sidenav();
-    });
-  </script>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/materialize.min.js"></script>
+
+<script>
+  $(document).ready(function () {
+    $('[data-role=sidenav]').sidenav();
+    $('.scrollspy').scrollSpy();
+  });
+</script>
 
 </html>

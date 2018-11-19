@@ -5,3 +5,7 @@
   translation: "Valitse kieli"
 - id: openProject
   translation: "Lue lisä"
+- id: projects
+  translation: "Meidät projektit"
+- id: organization
+  translation: "Yritys"

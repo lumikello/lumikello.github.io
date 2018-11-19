@@ -38,9 +38,6 @@
 -->
 
 <header>
-  <button type="bars" data-target="main-menu-sidenav" title="{{ i18n "toggleNavigation" }}" class="sidenav-trigger">
-    <i class="fas fa-bars"></i>
-  </button>
   <div class="avatar">
     <a class="navigation-link" href="{{ .Site.BaseURL | absLangURL }}">
       {{ with .Site.Params.avatar }}
@@ -49,30 +46,3 @@
     </a>
   </div>
 </header>
-
-<div id="main-menu-sidenav" data-role="sidenav" class="sidenav">
-
-  {{ i18n "selectLanguage"}}
-  <ul role="languages">
-  {{ if .Site.IsMultiLingual }}
-    {{ range .Site.Home.AllTranslations }}
-      {{ if ne $.Site.Language .Language }}
-        <li class="navigation-item">
-          <a href="{{ .Permalink }}"><img src="/images/flags/{{ .Language }}.svg" class=""> {{ .Language.LanguageName }}</a>
-        </li>
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  </ul>
-
-  <ul>
-  {{ with .Site.Menus.main}}
-    {{ range sort . }}
-      <li class="navigation-item">
-        <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-      </li>
-    {{ end }}
-  {{ end }}
-  </ul>
-    
-</div>

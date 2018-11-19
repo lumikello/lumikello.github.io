@@ -5,3 +5,7 @@
   translation: "Select language"
 - id: openProject
   translation: "more information"
+- id: projects
+  translation: "Projects"
+- id: organization
+  translation: "Organizations"

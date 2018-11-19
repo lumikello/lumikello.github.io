@@ -1,0 +1,45 @@
+<div id="main-menu-sidenav" data-role="sidenav" class="sidenav">
+  <div>
+      <section>
+          <h5>{{ i18n "selectLanguage"}}</h5>
+          <ul role="languages">
+              {{ if .Site.IsMultiLingual }}
+              {{ range.Site.Home.AllTranslations }}
+              {{ if ne $.Site.Language .Language }}
+              <li class="navigation-item">
+                  <a href="{{ .Permalink }}"
+                  ><img src="/images/flags/{{ .Language }}.svg" class="" />
+                  {{ .Language.LanguageName }}</a
+                  >
+                </li>
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </ul>
+        </section>
+        <section>
+            <h5>{{ i18n "organization" }}</h5>
+            <ul>
+                {{ with.Site.Menus.main }}
+                {{ range sort . }}
+                <li class="navigation-item">
+                    <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+                {{ end }}
+            </ul>
+        </section>
+        <section>
+            <h5>{{ i18n "projects" }}</h5>
+            <ul>
+            {{ range where ( .Site.Pages.ByParam "order" ) "Section" "project" }}
+            {{ if .Title }}
+                <li class="navigation-item">
+                    <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+            {{ end }}
+            </ul>
+        </section>
+  </div>
+</div>

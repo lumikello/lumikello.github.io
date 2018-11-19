@@ -70,9 +70,13 @@ pygmentscodefencesguesssyntax = true
         [languages.en.menu] # It is possible to change the menu too.
 
             [[languages.en.menu.main]]
-            name = "About"
-            weight = 1.0
-            url = "/page/about/"
+                name = "About"
+                weight = 1.0
+                url = "/page/about/"
+            [[languages.en.menu.main]]
+                name = "Calendar"
+                weight = 2.0
+                url = "/page/calendar/"
 
     [languages.ru]
         languagename = "Русский"
@@ -90,9 +94,13 @@ pygmentscodefencesguesssyntax = true
         [languages.ru.menu]
 
             [[languages.ru.menu.main]]
-            name = "О нас"
-            weight = 1.0
-            url = "/page/about/"
+                name = "О нас"
+                weight = 1.0
+                url = "/page/about/"
+            [[languages.ru.menu.main]]
+                name = "Календарь"
+                weight = 2.0
+                url = "/page/calendar/"
 
     [languages.fi]
         languagename = "Suomi"
@@ -110,6 +118,10 @@ pygmentscodefencesguesssyntax = true
         [languages.fi.menu]
 
             [[languages.fi.menu.main]]
-            name = "Me"
-            weight = 1.0
-            url = "/page/about/"
+                name = "Me"
+                weight = 1.0
+                url = "/page/about/"
+            [[languages.fi.menu.main]]
+                name = "Kalenteri"
+                weight = 2.0
+                url = "/page/calendar/"

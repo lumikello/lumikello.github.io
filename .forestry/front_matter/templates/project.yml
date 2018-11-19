@@ -15,11 +15,11 @@ fields:
   config:
     required: true
 - type: number
-  name: order
+  name: weight
   label: Order
   config:
     required: false
-  default: '0'
+  default: '1'
 - type: textarea
   label: Description
   name: description

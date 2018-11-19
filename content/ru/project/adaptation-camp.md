@@ -1,6 +1,6 @@
 +++
 date = "2018-11-11"
-order = 0
+weight = 20
 title = "адаптационный лагерь"
 picture = "/uploads/adaptation-camp.jpg"
 description = "Летний адаптационный  лагерь для детей-сирот и детей-инвалидов на территории Финляндии"

@@ -3,8 +3,8 @@ title = "Lumikello Ry"
 
 theme = "lumikello"
 
-languagecode = "en"
-DefaultContentLanguage = "en"
+languagecode = "fi"
+DefaultContentLanguage = "fi"
 
 paginate = 10
 canonifyurls = true

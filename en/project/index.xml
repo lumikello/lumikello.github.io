@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lumikello Ry</title>
+    <link>/en/project/</link>
+    <description>Recent content on Lumikello Ry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cоматика</title>
+      <link>/en/project/somatics/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/somatics/</guid>
+      <description>EN Cоматика</description>
+    </item>
+    
+    <item>
+      <title>Suomi sujuvaksi</title>
+      <link>/en/project/finnish-advanced/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/finnish-advanced/</guid>
+      <description>EN Suomi sujuvaksi</description>
+    </item>
+    
+    <item>
+      <title>адаптационный лагерь</title>
+      <link>/en/project/adaptation-camp/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/adaptation-camp/</guid>
+      <description>EN адаптационный лагерь</description>
+    </item>
+    
+    <item>
+      <title>детская школа Танца</title>
+      <link>/en/project/dance-school/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/dance-school/</guid>
+      <description>EN детская школа Танца</description>
+    </item>
+    
+    <item>
+      <title>натуральная помощь</title>
+      <link>/en/project/direct-aid/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/direct-aid/</guid>
+      <description>EN натуральная помощь</description>
+    </item>
+    
+    <item>
+      <title>студия Живописи</title>
+      <link>/en/project/art-studio/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/art-studio/</guid>
+      <description>EN студия Живописи</description>
+    </item>
+    
+    <item>
+      <title>студия Керамики</title>
+      <link>/en/project/porcelain-studio/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/porcelain-studio/</guid>
+      <description>EN студия Керамики</description>
+    </item>
+    
+    <item>
+      <title>студия Русской культуры и Языка</title>
+      <link>/en/project/ru-culture-studio/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/ru-culture-studio/</guid>
+      <description>EN студия Русской культуры и Языка</description>
+    </item>
+    
+    <item>
+      <title>театр-студия «Без границ»</title>
+      <link>/en/project/theatre/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/theatre/</guid>
+      <description>EN театр-студия &amp;ldquo;Без границ&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

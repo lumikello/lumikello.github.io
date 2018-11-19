@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fi/project/somatics/</loc>
+    <loc>/project/somatics/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/somatics/"
+                href="/en/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -18,18 +18,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/somatics/"
+                href="/project/somatics/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/finnish-advanced/</loc>
+    <loc>/project/finnish-advanced/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/finnish-advanced/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -37,18 +32,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="/en/project/finnish-advanced/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fi"
-                href="/fi/project/finnish-advanced/"
+                href="/project/finnish-advanced/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/adaptation-camp/</loc>
+    <loc>/project/adaptation-camp/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/adaptation-camp/"
+                href="/en/project/adaptation-camp/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,17 +58,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/adaptation-camp/"
+                href="/project/adaptation-camp/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/dance-school/</loc>
+    <loc>/project/dance-school/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/dance-school/"
+                href="/en/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -78,17 +78,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/dance-school/"
+                href="/project/dance-school/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/direct-aid/</loc>
+    <loc>/project/direct-aid/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/direct-aid/"
+                href="/en/project/direct-aid/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -98,17 +98,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/direct-aid/"
+                href="/project/direct-aid/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/art-studio/</loc>
+    <loc>/project/art-studio/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/art-studio/"
+                href="/en/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,17 +118,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/art-studio/"
+                href="/project/art-studio/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/porcelain-studio/</loc>
+    <loc>/project/porcelain-studio/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/porcelain-studio/"
+                href="/en/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -138,17 +138,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/porcelain-studio/"
+                href="/project/porcelain-studio/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/ru-culture-studio/</loc>
+    <loc>/project/ru-culture-studio/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/ru-culture-studio/"
+                href="/en/project/ru-culture-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,17 +158,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/ru-culture-studio/"
+                href="/project/ru-culture-studio/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/theatre/</loc>
+    <loc>/project/theatre/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/theatre/"
+                href="/en/project/theatre/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -178,18 +178,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/project/theatre/"
+                href="/project/theatre/"
                 />
   </url>
   
   <url>
-    <loc>/fi/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -197,18 +192,23 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fi"
-                href="/fi/project/"
+                href="/project/"
                 />
   </url>
   
   <url>
-    <loc>/fi/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,18 +218,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fi/</loc>
+    <loc>/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -239,16 +239,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>/fi/page/about/</loc>
+    <loc>/page/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/about/"
+                href="/en/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -258,17 +258,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/page/about/"
+                href="/page/about/"
                 />
   </url>
   
   <url>
-    <loc>/fi/page/</loc>
+    <loc>/page/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/"
+                href="/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -278,17 +278,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/page/"
+                href="/page/"
                 />
   </url>
   
   <url>
-    <loc>/fi/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -298,7 +298,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/fi/tags/"
+                href="/tags/"
                 />
   </url>
   

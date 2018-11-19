@@ -3,62 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/project/somatics/</loc>
+    <loc>/en/project/art-studio/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/project/somatics/"
+                href="/ru/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/project/somatics/"
+                href="/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/somatics/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/project/finnish-advanced/</loc>
-    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="/project/finnish-advanced/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/finnish-advanced/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/finnish-advanced/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/project/adaptation-camp/</loc>
-    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/adaptation-camp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="/project/adaptation-camp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/adaptation-camp/"
+                href="/en/project/art-studio/"
                 />
   </url>
   
@@ -87,13 +47,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/direct-aid/"
+                hreflang="ru"
+                href="/ru/project/direct-aid/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/direct-aid/"
+                hreflang="fi"
+                href="/project/direct-aid/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -103,22 +63,22 @@
   </url>
   
   <url>
-    <loc>/en/project/art-studio/</loc>
+    <loc>/en/project/finnish-advanced/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/project/art-studio/"
+                href="/ru/project/finnish-advanced/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="/project/art-studio/"
+                href="/project/finnish-advanced/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/art-studio/"
+                href="/en/project/finnish-advanced/"
                 />
   </url>
   
@@ -127,13 +87,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/porcelain-studio/"
+                hreflang="ru"
+                href="/ru/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/porcelain-studio/"
+                hreflang="fi"
+                href="/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -183,6 +143,46 @@
   </url>
   
   <url>
+    <loc>/en/project/somatics/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/somatics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/project/somatics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/somatics/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/adaptation-camp/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/adaptation-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/project/adaptation-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/adaptation-camp/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/project/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -218,6 +218,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/page/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/page/calendar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/page/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/page/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/page/calendar/"
                 />
   </url>
   

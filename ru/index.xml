@@ -12,30 +12,12 @@
     
     
     <item>
-      <title>Cоматика</title>
-      <link>/ru/project/somatics/</link>
+      <title>студия Живописи</title>
+      <link>/ru/project/art-studio/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ru/project/somatics/</guid>
-      <description>RU Cоматика</description>
-    </item>
-    
-    <item>
-      <title>Suomi sujuvaksi</title>
-      <link>/ru/project/finnish-advanced/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/project/finnish-advanced/</guid>
-      <description>RU Suomi sujuvaksi</description>
-    </item>
-    
-    <item>
-      <title>адаптационный лагерь</title>
-      <link>/ru/project/adaptation-camp/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/project/adaptation-camp/</guid>
-      <description>RU адаптационный лагерь</description>
+      <guid>/ru/project/art-studio/</guid>
+      <description>RU студия Живописи</description>
     </item>
     
     <item>
@@ -57,12 +39,12 @@
     </item>
     
     <item>
-      <title>студия Живописи</title>
-      <link>/ru/project/art-studio/</link>
+      <title>Suomi sujuvaksi</title>
+      <link>/ru/project/finnish-advanced/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ru/project/art-studio/</guid>
-      <description>RU студия Живописи</description>
+      <guid>/ru/project/finnish-advanced/</guid>
+      <description>RU Suomi sujuvaksi</description>
     </item>
     
     <item>
@@ -90,6 +72,33 @@
       
       <guid>/ru/project/theatre/</guid>
       <description>RU театр-студия &amp;ldquo;Без границ&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Cоматика</title>
+      <link>/ru/project/somatics/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ru/project/somatics/</guid>
+      <description>RU Cоматика</description>
+    </item>
+    
+    <item>
+      <title>адаптационный лагерь</title>
+      <link>/ru/project/adaptation-camp/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ru/project/adaptation-camp/</guid>
+      <description>RU адаптационный лагерь</description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>/ru/page/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ru/page/calendar/</guid>
+      <description>Rus</description>
     </item>
     
     <item>

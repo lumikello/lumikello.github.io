@@ -84,6 +84,12 @@ body {
           display: flex;
           flex: 1 1 auto;
           flex-direction: column;
+
+          ul {
+            & > li {
+              list-style-type: circle;
+            }
+          }
         }
       }
     }
@@ -104,10 +110,4 @@ input[type="reset"] {
   padding: 0;
   color: inherit;
   font: inherit;
-}
-
-ul {
-  &:not(.browser-default) > li {
-    list-style-type: circle;
-  }
 }

@@ -1,6 +1,5 @@
 +++
 date = "2018-11-24T12:01:48+00:00"
-draft = true
 slug = "statute"
 title = "statute"
 

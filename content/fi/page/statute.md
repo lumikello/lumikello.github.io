@@ -1,6 +1,6 @@
 +++
 slug = "statute"
-title = "statute"
+title = "Perustamiskirja"
 
 +++
 1. Наименование и место нахождения организации

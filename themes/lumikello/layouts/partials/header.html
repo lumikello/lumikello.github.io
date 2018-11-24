@@ -39,7 +39,7 @@
 
 <header>
   <div class="avatar">
-    <a class="navigation-link" href="{{ .Site.BaseURL | absLangURL }}">
+    <a class="navigation-link" href="{{ .Site.Params.baseurl | absLangURL }}">
       {{ with .Site.Params.avatar }}
       <img src="{{ . }}" alt="avatar">
       {{ end }}

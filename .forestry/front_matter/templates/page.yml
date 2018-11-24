@@ -1,0 +1,15 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  config:
+    required: true

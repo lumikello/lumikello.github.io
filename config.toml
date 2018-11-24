@@ -79,6 +79,10 @@ pygmentscodefencesguesssyntax = true
                 name = "Calendar"
                 weight = 2.0
                 url = "/page/calendar/"
+            [[languages.en.menu.main]]
+                name = "Statute"
+                weight = 2.0
+                url = "/page/statute/"
 
     [languages.ru]
         languagename = "Русский"
@@ -103,6 +107,10 @@ pygmentscodefencesguesssyntax = true
                 name = "Календарь"
                 weight = 2.0
                 url = "/page/calendar/"
+            [[languages.ru.menu.main]]
+                name = "Устав"
+                weight = 2.0
+                url = "/page/statute/"
 
     [languages.fi]
         languagename = "Suomi"
@@ -127,3 +135,11 @@ pygmentscodefencesguesssyntax = true
                 name = "Kalenteri"
                 weight = 2.0
                 url = "/page/calendar/"
+            [[languages.fi.menu.main]]
+                name = "Perustamiskirja"
+                weight = 2.0
+                url = "/page/statute/"
+            [[languages.fi.menu.main]]
+                name = "Tietosuojaseloste"
+                weight = 2.0
+                url = "/page/dataprotection/"

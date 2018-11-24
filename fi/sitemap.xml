@@ -47,13 +47,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/direct-aid/"
+                hreflang="ru"
+                href="/ru/project/direct-aid/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/direct-aid/"
+                hreflang="en"
+                href="/en/project/direct-aid/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,13 +127,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/theatre/"
+                hreflang="en"
+                href="/en/project/theatre/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/theatre/"
+                hreflang="ru"
+                href="/ru/project/theatre/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -180,6 +180,11 @@
                 hreflang="fi"
                 href="/project/adaptation-camp/"
                 />
+  </url>
+  
+  <url>
+    <loc>/page/statute/</loc>
+    <lastmod>2018-11-24T12:01:48+00:00</lastmod>
   </url>
   
   <url>
@@ -283,6 +288,7 @@
   
   <url>
     <loc>/page/</loc>
+    <lastmod>2018-11-24T12:01:48+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

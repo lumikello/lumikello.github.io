@@ -32,6 +32,7 @@ fields:
   name: picture
 pages:
 - content/fi/project/porcelain-studio.md
+- content/ru/project/porcelain-studio.md
 - content/fi/project/ru-culture-studio.md
 - content/en/project/ru-culture-studio.md
 - content/ru/project/ru-culture-studio.md
@@ -54,7 +55,6 @@ pages:
 - content/en/project/direct-aid.md
 - content/en/project/art-studio.md
 - content/en/project/adaptation-camp.md
-- content/ru/project/porcelain-studio.md
 - content/ru/project/direct-aid.md
 - content/ru/project/adaptation-camp.md
 - content/ru/project/art-studio.md

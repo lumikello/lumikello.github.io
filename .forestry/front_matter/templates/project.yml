@@ -31,6 +31,9 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/fi/project/direct-aid.md
+- content/en/project/direct-aid.md
+- content/ru/project/direct-aid.md
 - content/fi/project/somatics.md
 - content/fi/project/porcelain-studio.md
 - content/ru/project/porcelain-studio.md
@@ -50,11 +53,8 @@ pages:
 - content/en/project/somatics.md
 - content/fi/project/theatre.md
 - content/fi/project/finnish-advanced.md
-- content/fi/project/direct-aid.md
 - content/en/project/theatre.md
-- content/en/project/direct-aid.md
 - content/en/project/art-studio.md
 - content/en/project/adaptation-camp.md
-- content/ru/project/direct-aid.md
 - content/ru/project/adaptation-camp.md
 - content/ru/project/art-studio.md

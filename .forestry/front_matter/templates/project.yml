@@ -31,6 +31,9 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/fi/project/theatre.md
+- content/en/project/theatre.md
+- content/ru/project/theatre.md
 - content/fi/project/adaptation-camp.md
 - content/en/project/adaptation-camp.md
 - content/ru/project/adaptation-camp.md
@@ -52,9 +55,6 @@ pages:
 - content/en/project/porcelain-studio.md
 - content/ru/project/dance-school.md
 - content/ru/project/somatics.md
-- content/ru/project/theatre.md
 - content/en/project/somatics.md
-- content/fi/project/theatre.md
-- content/en/project/theatre.md
 - content/en/project/art-studio.md
 - content/ru/project/art-studio.md

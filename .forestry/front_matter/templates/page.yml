@@ -13,3 +13,5 @@ fields:
   label: Slug
   config:
     required: true
+pages:
+- content/fi/page/statute.md

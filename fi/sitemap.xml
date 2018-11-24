@@ -147,13 +147,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/somatics/"
+                hreflang="ru"
+                href="/ru/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/somatics/"
+                hreflang="en"
+                href="/en/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -302,6 +302,25 @@
   </url>
   
   <url>
+    <loc>/page/statute/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/page/statute/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/page/statute/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/page/statute/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -318,25 +337,6 @@
                 rel="alternate"
                 hreflang="fi"
                 href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/page/statute/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/page/statute/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/page/statute/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="/page/statute/"
                 />
   </url>
   

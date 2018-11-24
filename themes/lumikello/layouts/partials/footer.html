@@ -1,16 +1,23 @@
 <footer class="footer">
   <section class="container">
-    {{ with .Site.Params.footercontent }}
+    {{ with .Site.Params }}
+    {{ with .author }}
       <p>{{.}}</p>
     {{ end }}
-    •
+    {{ with .address }}
+      <p>{{.}}</p>
+    {{ end }}
+    {{ with .businessid }}
+      <p>{{.}}</p>
+    {{ end }}
+    {{ end }}
   </section>
 
-
+<!-- 
   <div>
     Debug<br />
 
-    <!-- {{ printf "%#v" .Site  }} -->
+    {{ printf "%#v" .Site  }} 
 
-  </div>
+  </div> -->
 </footer>

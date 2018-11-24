@@ -1,6 +1,7 @@
 @import "materialize";
 @import "header";
 @import "sidenav";
+@import "homeprojects";
 .navigation-list {
   display: flex;
 }
@@ -39,11 +40,27 @@ body {
       }
     }
     & > main {
+      display: flex;
       flex: 1 1 auto;
+      flex-direction: column;
       min-height: 100vh;
 
-      & > header {
+      & > header,
+      & > main {
         display: flex;
+        flex-direction: column;
+        padding: 0 1rem;
+        & > footer {
+          margin: 1rem -1rem 0;
+          background-color: $color-footer-bg;
+          padding: 1rem;
+          color: $color-footer-text;
+          p {
+            margin: 0;
+          }
+        }
+      }
+      & > header {
         padding: 1rem 0;
         & > .avatar {
           margin: 0 auto;
@@ -61,9 +78,13 @@ body {
         content: "";
         will-change: transform;
       }
-      > header,
-      > main {
-        padding: 0 1rem;
+      & > main {
+        flex: 1 1 auto;
+        & > .content {
+          display: flex;
+          flex: 1 1 auto;
+          flex-direction: column;
+        }
       }
     }
   }
@@ -83,109 +104,4 @@ input[type="reset"] {
   padding: 0;
   color: inherit;
   font: inherit;
-}
-
-.home-projects {
-  display: flex;
-  flex-wrap: wrap;
-  & > section {
-    display: flex;
-    @media #{$large-and-up} {
-      &:nth-child(4n + 1) {
-        flex-basis: 40%;
-      }
-      &:nth-child(4n + 2) {
-        flex-basis: 60%;
-      }
-      &:nth-child(4n + 3) {
-        flex-basis: 60%;
-      }
-      &:nth-child(4n + 4) {
-        flex-basis: 40%;
-      }
-    }
-    @media #{$medium-and-up} {
-      flex-basis: 50%;
-    }
-    &:nth-child(5n + 1) {
-      .card {
-        background-color: rgba(200, 100, 200, 0.3);
-        .card-image .card-title {
-          background-color: rgba(200, 100, 200, 0.7);
-        }
-      }
-    }
-    &:nth-child(5n + 2) {
-      .card {
-        background-color: rgba(173, 200, 100, 0.3);
-        .card-image .card-title {
-          background-color: rgba(173, 200, 100, 0.7);
-        }
-      }
-    }
-    &:nth-child(5n + 3) {
-      .card {
-        background-color: rgba(100, 140, 200, 0.3);
-        .card-image .card-title {
-          background-color: rgba(100, 140, 200, 0.7);
-        }
-      }
-    }
-    &:nth-child(5n + 4) {
-      .card {
-        background-color: rgba(200, 107, 100, 0.3);
-        .card-image .card-title {
-          background-color: rgba(200, 107, 100, 0.7);
-        }
-      }
-    }
-    &:nth-child(5n + 5) {
-      .card {
-        background-color: rgba(100, 200, 150, 0.3);
-        .card-image .card-title {
-          background-color: rgba(100, 200, 150, 0.7);
-        }
-      }
-    }
-    &:last-child {
-      flex-basis: 100%;
-    }
-    .card {
-      display: flex;
-      flex: 1 1 auto;
-      flex-direction: column;
-      .card-image {
-        display: flex;
-        align-items: center;
-        height: 100%;
-        max-height: 320px;
-        overflow: hidden;
-        img {
-          height: 100%;
-          object-fit: cover;
-        }
-        .card-title {
-          a,
-          a:focus,
-          a:hover,
-          a:active {
-            color: #fff;
-          }
-        }
-      }
-      .card-content {
-        flex: 1 1 auto;
-      }
-      .card-action {
-        a:not(.btn):not(.btn-large):not(.btn-floating) {
-          &,
-          &:focus,
-          &:hover,
-          &:active {
-            color: #fff;
-          }
-        }
-      }
-    }
-  }
 }

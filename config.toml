@@ -17,6 +17,8 @@ pygmentscodefencesguesssyntax = true
     author = "Lumikello Ry"
     avatar = "images/logo.svg"
 
+    address = "Kuopio, Finland"
+    businessid = "Y-tunnus 2819071-5"
 
     hideCredits = false
     hideCopyright = false

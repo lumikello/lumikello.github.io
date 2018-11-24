@@ -31,6 +31,9 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/fi/project/dance-school.md
+- content/en/project/dance-school.md
+- content/ru/project/dance-school.md
 - content/fi/project/theatre.md
 - content/en/project/theatre.md
 - content/ru/project/theatre.md
@@ -48,12 +51,9 @@ pages:
 - content/fi/project/ru-culture-studio.md
 - content/en/project/ru-culture-studio.md
 - content/ru/project/ru-culture-studio.md
-- content/fi/project/dance-school.md
-- content/en/project/dance-school.md
 - content/ru/project/finnish-advanced.md
 - content/fi/project/art-studio.md
 - content/en/project/porcelain-studio.md
-- content/ru/project/dance-school.md
 - content/ru/project/somatics.md
 - content/en/project/somatics.md
 - content/en/project/art-studio.md

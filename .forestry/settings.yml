@@ -4,9 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: conf
 - type: directory
   path: content/fi
   label: FI
@@ -22,6 +19,9 @@ sections:
   label: RU
   create: documents
   match: "**/*"
+- type: document
+  path: config.toml
+  label: site config
 - type: directory
   path: themes/lumikello/i18n
   label: i18n

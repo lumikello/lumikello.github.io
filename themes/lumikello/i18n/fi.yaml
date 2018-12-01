@@ -1,11 +1,11 @@
-# Navigation
+---
 - id: toggleNavigation
-  translation: "Näytä/piilota navigointi"
+  translation: Näytä/piilota navigointi
 - id: selectLanguage
-  translation: "Valitse kieli"
+  translation: Valitse kieli
 - id: openProject
-  translation: "Lue lisä"
+  translation: Lue lisää
 - id: projects
-  translation: "Meidät projektit"
+  translation: Meidät projektit
 - id: organization
-  translation: "Yritys"
+  translation: Yritys

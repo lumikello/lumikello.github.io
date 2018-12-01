@@ -55,14 +55,12 @@ pygmentscodefencesguesssyntax = true
 
 [languages]
     [languages.en]
-        author = "Lumikello Ry"
         languagename = "English" # The language name to be displayed in the selector.
         contentDir = "content/en"
 
-        address = "Kuopio, Finland"
-
-        # You can configure the theme parameter for each language.
         [languages.en.params]
+            author = "Lumikello Ry"
+            address = "Kuopio, Finland"
             description = "non-profit charity organization Lumikello Ry"
             keywords = "non-profit,charity,Lumikello,Kuopio,Suomi"
             info = ""
@@ -89,10 +87,9 @@ pygmentscodefencesguesssyntax = true
         languagename = "Русский"
         contentDir = "content/ru"
 
-        address = "Куопио, Финляндия"
-
         [languages.ru.params]
             author = "Лумикелло Рю"
+            address = "Куопио, Финляндия"
             description = "благотворительная организация Лумикелло Рю"
             keywords = "благотворительная организация,благотворительномть,Лумикелло,Lumikello,Куопио,Финляндия"
             info = ""
@@ -119,16 +116,15 @@ pygmentscodefencesguesssyntax = true
         languagename = "Suomi"
         contentDir = "content/fi"
 
-        address = "Kuopio, Suomi"
-
         [languages.fi.params]
             author = "Lumikello Ry"
+            address = "Kuopio, Suomi"
             description = "yleishyödyllinen hyväntekeväisyyden liitto Lumikello Ry"
             keywords = "kansalaisjärjestö,yleishyödyllisyys,hyväntekeväisyys,Lumikello,Kuopio,Suomi"
             info = ""
             menu = "valikko"
 
-            dateformat = "2 January 2006"
+        dateformat = "2 January 2006"
 
         [languages.fi.menu]
 

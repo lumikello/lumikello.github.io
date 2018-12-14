@@ -31,7 +31,6 @@ fields:
   label: Picture
   name: picture
 pages:
-- content/ru/project/ru-culture-studio.md
 - content/en/project/ru-culture-studio.md
 - content/fi/project/ru-culture-studio.md
 - content/ru/project/porcelain-studio.md
@@ -56,5 +55,6 @@ pages:
 - content/fi/project/art-studio.md
 - content/ru/project/finnish-advanced.md
 - content/fi/project/direct-aid.md
+- content/ru/project/ru-culture-studio.md
 - content/ru/project/theatre.md
 - content/ru/project/adaptation-camp.md

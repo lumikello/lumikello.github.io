@@ -2,7 +2,7 @@
 date = "2018-11-11"
 description = "Детская студия русской культуры и языка в Куопио"
 picture = "/uploads/ru-culture-studio.jpg"
-title = "студия Русской культуры и Языка"
+title = "Студия Русской культуры и Языка"
 weight = 7
 
 +++

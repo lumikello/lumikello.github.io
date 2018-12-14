@@ -1,6 +1,7 @@
 +++
 date = "2018-11-11"
 description = "многокультурный и многоязычный любительский театр для подростков иммигрантов"
+draft = true
 picture = "/uploads/theatre.jpg"
 title = "театр-студия «Без границ»"
 weight = 8

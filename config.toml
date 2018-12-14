@@ -1,146 +1,116 @@
-baseurl = "/"
-title = "Lumikello Ry"
-
-theme = "lumikello"
-
-languagecode = "fi"
 DefaultContentLanguage = "fi"
-
-paginate = 10
+baseurl = "/"
 canonifyurls = true
-
-pygmentsstyle = "b2"
+languagecode = "fi"
+paginate = 10
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+pygmentsstyle = "b2"
+theme = "lumikello"
+title = "Lumikello ry"
+[languages.en]
+contentDir = "content/en"
+languagename = "English"
+[[languages.en.menu.main]]
+name = "About"
+url = "/page/about/"
+weight = 1
+[[languages.en.menu.main]]
+name = "Calendar"
+url = "/page/calendar/"
+weight = 2
+[[languages.en.menu.main]]
+name = "Statute"
+url = "/page/statute/"
+weight = 2
+[languages.en.params]
+address = "Kuopio, Finland"
+author = "Lumikello Ry"
+dateformat = "January 2, 2006"
+description = "non-profit charity organization Lumikello Ry"
+info = ""
+keywords = "non-profit,charity,Lumikello,Kuopio,Suomi"
+menu = "menu"
+[languages.fi]
+contentDir = "content/fi"
+languagename = "Suomi"
+[[languages.fi.menu.main]]
+name = "Me"
+url = "/page/about/"
+weight = 1
+[[languages.fi.menu.main]]
+name = "Kalenteri"
+url = "/page/calendar/"
+weight = 2
+[[languages.fi.menu.main]]
+name = "Perustamiskirja"
+url = "/page/statute/"
+weight = 2
+[[languages.fi.menu.main]]
+name = "Tietosuojaseloste"
+url = "/page/dataprotection/"
+weight = 2
+[languages.fi.params]
+address = "Kuopio, Suomi"
+author = "Lumikello Ry"
+dateformat = "2 January 2006"
+description = "yleishyödyllinen hyväntekeväisyyden liitto Lumikello Ry"
+info = ""
+keywords = "kansalaisjärjestö,yleishyödyllisyys,hyväntekeväisyys,Lumikello,Kuopio,Suomi"
+menu = "valikko"
+[languages.ru]
+contentDir = "content/ru"
+languagename = "Русский"
+[[languages.ru.menu.main]]
+name = "О нас"
+url = "/page/about/"
+weight = 1
+[[languages.ru.menu.main]]
+name = "Календарь"
+url = "/page/calendar/"
+weight = 2
+[[languages.ru.menu.main]]
+name = "Устав"
+url = "/page/statute/"
+weight = 2
+[languages.ru.params]
+address = "Куопио, Финляндия"
+author = "Лумикелло Рю"
+dateformat = "2 January 2006"
+description = "благотворительная организация Лумикелло Рю"
+info = ""
+keywords = "благотворительная организация,благотворительномть,Лумикелло,Lumikello,Куопио,Финляндия"
+menu = "меню"
 [params]
-    author = "Lumikello Ry"
-    avatar = "images/logo.svg"
-
-    businessid = "Y-tunnus 2819071-5"
-
-    hideCredits = false
-    hideCopyright = false
-
-    rtl = false
-
-    # Custom CSS
-    custom_css = []
-
+author = "Lumikello Ry"
+avatar = "images/logo.svg"
+businessid = "Y-tunnus 2819071-5"
+custom_css = []
+hideCopyright = false
+hideCredits = false
+rtl = false
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/johndoe/"
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/johndoe/"
+weight = 1
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+icon = "fab fa-gitlab"
+name = "Gitlab"
+url = "https://gitlab.com/johndoe/"
+weight = 2
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+icon = "fab fa-twitter"
+name = "Twitter"
+url = "https://twitter.com/johndoe/"
+weight = 3
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+icon = "fab fa-linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/johndoe/"
+weight = 4
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
-
-[languages]
-    [languages.en]
-        languagename = "English" # The language name to be displayed in the selector.
-        contentDir = "content/en"
-
-        [languages.en.params]
-            author = "Lumikello Ry"
-            address = "Kuopio, Finland"
-            description = "non-profit charity organization Lumikello Ry"
-            keywords = "non-profit,charity,Lumikello,Kuopio,Suomi"
-            info = ""
-            menu = "menu"
-
-        dateformat = "January 2, 2006"
-
-        [languages.en.menu] # It is possible to change the menu too.
-
-            [[languages.en.menu.main]]
-                name = "About"
-                weight = 1.0
-                url = "/page/about/"
-            [[languages.en.menu.main]]
-                name = "Calendar"
-                weight = 2.0
-                url = "/page/calendar/"
-            [[languages.en.menu.main]]
-                name = "Statute"
-                weight = 2.0
-                url = "/page/statute/"
-
-    [languages.ru]
-        languagename = "Русский"
-        contentDir = "content/ru"
-
-        [languages.ru.params]
-            author = "Лумикелло Рю"
-            address = "Куопио, Финляндия"
-            description = "благотворительная организация Лумикелло Рю"
-            keywords = "благотворительная организация,благотворительномть,Лумикелло,Lumikello,Куопио,Финляндия"
-            info = ""
-            menu = "меню"
-
-        dateformat = "2 January 2006"
-
-        [languages.ru.menu]
-
-            [[languages.ru.menu.main]]
-                name = "О нас"
-                weight = 1.0
-                url = "/page/about/"
-            [[languages.ru.menu.main]]
-                name = "Календарь"
-                weight = 2.0
-                url = "/page/calendar/"
-            [[languages.ru.menu.main]]
-                name = "Устав"
-                weight = 2.0
-                url = "/page/statute/"
-
-    [languages.fi]
-        languagename = "Suomi"
-        contentDir = "content/fi"
-
-        [languages.fi.params]
-            author = "Lumikello Ry"
-            address = "Kuopio, Suomi"
-            description = "yleishyödyllinen hyväntekeväisyyden liitto Lumikello Ry"
-            keywords = "kansalaisjärjestö,yleishyödyllisyys,hyväntekeväisyys,Lumikello,Kuopio,Suomi"
-            info = ""
-            menu = "valikko"
-
-        dateformat = "2 January 2006"
-
-        [languages.fi.menu]
-
-            [[languages.fi.menu.main]]
-                name = "Me"
-                weight = 1.0
-                url = "/page/about/"
-            [[languages.fi.menu.main]]
-                name = "Kalenteri"
-                weight = 2.0
-                url = "/page/calendar/"
-            [[languages.fi.menu.main]]
-                name = "Perustamiskirja"
-                weight = 2.0
-                url = "/page/statute/"
-            [[languages.fi.menu.main]]
-                name = "Tietosuojaseloste"
-                weight = 2.0
-                url = "/page/dataprotection/"
+icon = "fab fa-medium"
+name = "Medium"
+url = "https://medium.com/@johndoe"
+weight = 5

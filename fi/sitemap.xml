@@ -3,37 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/art-studio/</loc>
-    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/art-studio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/art-studio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="/project/art-studio/"
-                />
-  </url>
-  
-  <url>
     <loc>/project/dance-school/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/dance-school/"
+                hreflang="ru"
+                href="/ru/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/dance-school/"
+                hreflang="en"
+                href="/en/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -87,13 +67,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/porcelain-studio/"
+                hreflang="en"
+                href="/en/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/porcelain-studio/"
+                hreflang="ru"
+                href="/ru/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -147,13 +127,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/somatics/"
+                hreflang="en"
+                href="/en/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/somatics/"
+                hreflang="ru"
+                href="/ru/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"

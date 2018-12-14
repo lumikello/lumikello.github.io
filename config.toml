@@ -82,13 +82,18 @@ info = ""
 keywords = "благотворительная организация,благотворительномть,Лумикелло,Lumikello,Куопио,Финляндия"
 menu = "меню"
 [params]
-author = "Lumikello Ry"
+author = "Lumikello ry"
 avatar = "images/logo.svg"
 businessid = "Y-tunnus 2819071-5"
 custom_css = []
 hideCopyright = false
 hideCredits = false
 rtl = false
+[[params.social]]
+icon = ""
+name = "Faceebook "
+url = "https://www.facebook.com/lumikellory/?ref=bookmarks"
+weight = ""
 [[params.social]]
 icon = "fab fa-github"
 name = "Github"

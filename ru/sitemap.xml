@@ -23,6 +23,26 @@
   </url>
   
   <url>
+    <loc>/ru/project/porcelain-studio/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/porcelain-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/project/porcelain-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/porcelain-studio/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/project/dance-school/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -79,26 +99,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/project/finnish-advanced/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ru/project/porcelain-studio/</loc>
-    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="/project/porcelain-studio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/porcelain-studio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/project/porcelain-studio/"
                 />
   </url>
   
@@ -267,13 +267,13 @@
     <loc>/ru/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/page/dataprotection/"
+                hreflang="en"
+                href="/en/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/page/dataprotection/"
+                hreflang="fi"
+                href="/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

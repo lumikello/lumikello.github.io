@@ -47,6 +47,11 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fi"
+                href="/project/direct-aid/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/project/direct-aid/"
                 />
@@ -82,13 +87,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/porcelain-studio/"
+                hreflang="ru"
+                href="/ru/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/porcelain-studio/"
+                hreflang="fi"
+                href="/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -339,13 +344,13 @@
     <loc>/en/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/page/dataprotection/"
+                hreflang="fi"
+                href="/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/page/dataprotection/"
+                hreflang="ru"
+                href="/ru/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

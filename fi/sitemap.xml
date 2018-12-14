@@ -7,13 +7,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/art-studio/"
+                hreflang="ru"
+                href="/ru/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/art-studio/"
+                hreflang="en"
+                href="/en/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -43,17 +43,37 @@
   </url>
   
   <url>
-    <loc>/project/finnish-advanced/</loc>
+    <loc>/project/direct-aid/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/finnish-advanced/"
+                href="/en/project/direct-aid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
+                href="/ru/project/direct-aid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/project/direct-aid/"
+                />
+  </url>
+  
+  <url>
+    <loc>/project/finnish-advanced/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
                 href="/ru/project/finnish-advanced/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/finnish-advanced/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,13 +87,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/porcelain-studio/"
+                hreflang="ru"
+                href="/ru/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/porcelain-studio/"
+                hreflang="en"
+                href="/en/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,13 +147,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/somatics/"
+                hreflang="ru"
+                href="/ru/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/somatics/"
+                hreflang="en"
+                href="/en/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -147,13 +167,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/adaptation-camp/"
+                hreflang="en"
+                href="/en/project/adaptation-camp/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/adaptation-camp/"
+                hreflang="ru"
+                href="/ru/project/adaptation-camp/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -167,13 +187,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/"
+                hreflang="en"
+                href="/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/"
+                hreflang="ru"
+                href="/ru/project/"
                 />
     <xhtml:link
                 rel="alternate"

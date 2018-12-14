@@ -7,6 +7,11 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fi"
+                href="/project/art-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/project/art-studio/"
                 />
@@ -22,13 +27,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/dance-school/"
+                hreflang="ru"
+                href="/ru/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/dance-school/"
+                hreflang="fi"
+                href="/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -102,13 +107,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/ru-culture-studio/"
+                hreflang="ru"
+                href="/ru/project/ru-culture-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/ru-culture-studio/"
+                hreflang="fi"
+                href="/project/ru-culture-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -182,13 +187,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/"
+                hreflang="ru"
+                href="/ru/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/"
+                hreflang="fi"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -339,13 +344,13 @@
     <loc>/en/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/page/dataprotection/"
+                hreflang="fi"
+                href="/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/page/dataprotection/"
+                hreflang="ru"
+                href="/ru/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

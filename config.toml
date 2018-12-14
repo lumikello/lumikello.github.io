@@ -91,7 +91,7 @@ hideCredits = false
 rtl = false
 [[params.social]]
 icon = ""
-name = "Faceebook "
+name = "Facebook "
 url = "https://www.facebook.com/lumikellory/?ref=bookmarks"
 weight = ""
 [[params.social]]

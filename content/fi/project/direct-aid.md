@@ -1,7 +1,6 @@
 +++
 date = "2018-11-11"
 description = "У многих из Вас остались в доме вещи, из которых уже вырос Ваш ребенок, но есть дети, которым они очень пригодятся."
-draft = true
 picture = "/uploads/direct-aid.jpg"
 title = "Tavara-apu"
 weight = 3

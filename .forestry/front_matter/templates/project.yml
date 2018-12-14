@@ -41,7 +41,6 @@ pages:
 - content/en/project/direct-aid.md
 - content/en/project/finnish-advanced.md
 - content/fi/project/finnish-advanced.md
-- content/ru/project/adaptation-camp.md
 - content/en/project/adaptation-camp.md
 - content/fi/project/adaptation-camp.md
 - content/en/project/theatre.md
@@ -58,3 +57,4 @@ pages:
 - content/ru/project/finnish-advanced.md
 - content/fi/project/direct-aid.md
 - content/ru/project/theatre.md
+- content/ru/project/adaptation-camp.md

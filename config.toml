@@ -91,6 +91,11 @@ hideCredits = false
 rtl = false
 [[params.social]]
 icon = ""
+name = "ВКонтакте"
+url = "https://vk.com/lumikellory"
+weight = ""
+[[params.social]]
+icon = ""
 name = "Facebook "
 url = "https://www.facebook.com/lumikellory/?ref=bookmarks"
 weight = ""

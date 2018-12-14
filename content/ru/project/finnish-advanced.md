@@ -2,7 +2,7 @@
 date = "2018-11-11"
 description = "Курс финского языка Suomi sujuvaksi, отличительная особенность которого - детальная проработка имеющихся речевых ошибок, объяснение на русском языке, занятия разговорной практикой."
 picture = "/uploads/finnish-advanced.jpg"
-title = "Suomi sujuvaksi."
+title = "Suomi sujuvaksi"
 weight = 4
 
 +++

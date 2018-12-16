@@ -25,7 +25,7 @@ url = "/page/statute/"
 weight = 2
 [languages.en.params]
 address = "Kuopio, Finland"
-author = "Lumikello Ry"
+author = "Lumikello ry"
 dateformat = "January 2, 2006"
 description = "non-profit charity organization Lumikello Ry"
 info = ""
@@ -52,7 +52,7 @@ url = "/page/dataprotection/"
 weight = 2
 [languages.fi.params]
 address = "Kuopio, Suomi"
-author = "Lumikello Ry"
+author = "Lumikello ry"
 dateformat = "2 January 2006"
 description = "yleishyödyllinen hyväntekeväisyyden liitto Lumikello Ry"
 info = ""
@@ -75,7 +75,7 @@ url = "/page/statute/"
 weight = 2
 [languages.ru.params]
 address = "Куопио, Финляндия"
-author = "Лумикелло Рю"
+author = "Lumikelo ry"
 dateformat = "2 January 2006"
 description = "благотворительная организация Лумикелло Рю"
 info = ""

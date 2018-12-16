@@ -26,8 +26,6 @@ Savi on kiinnostava luonnonmateriaali, jota on helppoa muokata haluamaasi muotoo
 
 Savi on pehmeä ja muistaa tekijänsä kädenjäljen, mutta polttoon jälkeen plastinen savi muuttuu kivenkovaksi.
 
- 
-
 Näin syntyvät uniikkiesineet. Keramiikkakurssilla tehdään savesta niin veistoksia kuin käyttöesineitäkin.
 
 ## Dreijaus
@@ -42,13 +40,9 @@ Dreijan kesyttämiseen tarvitaan kärsivällisyyttä ja oikean tekniikan hallits
 
 ## **Tietoja kurssista:**
 
- 
-
 Hinnat:
 
 * ​kurssin maksu 80€ (sis. 16 kertaa)
-
-
 * tutustumiskerta 5€ (sis. savi, poltot)
 
 ​​Hinnat sisältävät: pajan vuokraa, poltot sekä opettajan apu.
@@ -57,9 +51,9 @@ On myös mahdollista korvata poissaolot kolmen kuukauden ajalla.
 
 Muut materiaalit kuten savi ja metallilangat voi ostaa suoraan pajalta: 10kg savipaketti on 16 €. Lasitteet maksetaan kerran puolessa vuodessa 18€.
 
-## **Studion aikataulu:** 
+## **Studion aikataulu:**
 
-Neulamäen Nuorisotalo 
+Neulamäen Nuorisotalo
 
 Tiistai     16.00-18.00
 
@@ -67,7 +61,7 @@ Jynkän Monari ​
 
 Torstai 15.30-17.30
 
-Männistön Nuorisotalo 
+Männistön Nuorisotalo
 
 Keskiviikko 16.00-18.00
 
@@ -81,9 +75,9 @@ puh. 046 564 3687
 
 albinaponnio@hotmail.com
 
- Kurssin järjestäjä:
+Kurssin järjestäjä:
 
-Lumikello ry   
+Lumikello ry
 
 lumikellokuopio@gmail.com.
 

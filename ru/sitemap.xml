@@ -7,13 +7,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/art-studio/"
+                hreflang="en"
+                href="/en/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/art-studio/"
+                hreflang="fi"
+                href="/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,13 +27,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/porcelain-studio/"
+                hreflang="en"
+                href="/en/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/porcelain-studio/"
+                hreflang="fi"
+                href="/project/porcelain-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/ru/project/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D1%82%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F-%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D0%BB%D0%B8/</loc>
+    <lastmod>2018-12-16T22:03:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ru/project/finnish-advanced/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -127,13 +132,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/somatics/"
+                hreflang="en"
+                href="/en/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/somatics/"
+                hreflang="fi"
+                href="/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -177,13 +182,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/"
+                hreflang="en"
+                href="/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/"
+                hreflang="fi"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,7 +1,6 @@
 +++
 date = "2018-12-14T22:12:37+02:00"
 description = "Lumikello предоставляет возможность прохождения как трудовой, так и учебной практики. Добро пожаловать! "
-draft = true
 picture = "/uploads/kuvitus-nainen-idea.png"
 title = "Практика в Lumikello ry"
 weight = 11

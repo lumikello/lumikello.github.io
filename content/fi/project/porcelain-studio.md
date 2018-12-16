@@ -2,57 +2,89 @@
 date = "2018-11-11"
 description = "Из глины можно создать как посуду, так и скульптуру, поэтому на уроках мы не просто лепим из глины, а раскрываем творческий потенциал каждого ученика."
 picture = "/uploads/porcelain-studio.jpg"
-title = "студия Керамики"
+title = "Keramiikkakurssi    \"Lateramin\""
 weight = 5
 
 +++
-
 ​![](/uploads/porcelain-studio-01.jpg)
 
-Занятия проходят в виде мастер-классов и уроков гончарного дела. На мастер-классах мы создаем различные керамические предметы на заданную тему, прорабатывая технику лепки или декорирования. Все занятия проходят в небольшой группе (8-10 человек). 
+Keramiikkakurssilla me tutustutaan erilaisiin teknikkoihin käsinrakentamisesta muovailukoneeseen.
 
-## Лепка из глины
+Käytössämme on myös kipsimuotteja, joiden avulla saa nopeasti hyvät astiat. Opettelemme myös erilaisia koristeluteknikoita: leimasimet, lasitteiden ja enkopien käyttö jne.
+
+Kurssi järjestetään kerran viikossa, tuntien teema vaihtuu joka toinen viikko.
+
+Joka toinen viikko on dreijauskurssi.
+
+Opetus tapahtuu pienissä ryhmässä 8-10 henk.
+
+## Savi
 
 ​![](/uploads/porcelain-studio-02.jpg)
 
-Лепка из глины -- это один из интереснейших видов изобразительного творчества, в котором из пластичной глины создаются объемные образы, а после обжига - функциональные предметы декора. Техника лепки из глины очень разнообразна и богата. Из глины можно создать как посуду, так и скульптуру, поэтому на уроках мы не просто лепим из глины, а раскрываем творческий потенциал каждого ученика.
+Savi on kiinnostava luonnonmateriaali, jota on helppoa muokata haluamaasi muotoon.
 
-С помощью различных инструментов, мы освоим приемы лепки из глины, различные техники декорирования керамики и даже поэкспериментируем, соединяя глину с другими материалами (стекло, металл). 
+Savi on pehmeä ja muistaa tekijänsä kädenjäljen, mutta polttoon jälkeen plastinen savi muuttuu kivenkovaksi.
 
-## Гончарное дело
+ 
+
+Näin syntyvät uniikkiesineet. Keramiikkakurssilla tehdään savesta niin veistoksia kuin käyttöesineitäkin.
+
+## Dreijaus
 
 ​![](/uploads/porcelain-studio-03.jpg)
 
-Как известно, гончарное ремесло одно из древнейших способов создания посуды, но оно не так просто, как кажется. Приручить гончарный круг дело не из простых, но нет ничего невозможного! В нашей студии керамики так же можно попробовать себя в роли гончара и создать свою уникальную вещь.
+Keramiikkakursilla on mahdollistaa tutustua dreijaukseen.
 
-## Информация о курсе керамики
+Dreijaus on hauska muodonantomenetelmä, mutta se ei ole niin helppoa kun näyttää.
 
-* ​Осенний курс включает в себя 16 занятий.
-* Стоимость курса 80€ (родитель + ребенок, максимум 2 детей). В стоимость входит: аренда помещения, помощь педагога, обжиг, кофе.
-* 5€ разовое (пробное) посещение. В стоимость входит: аренда помещения, помощь педагога, обжиг, материалы, кофе.
+Dreijan kesyttämiseen tarvitaan kärsivällisyyttä ja oikean tekniikan hallitsemista, joita opetellaan kurssilla.
 
-Если Вы пропустили занятие, то можете его компенсировать в любое удобное дополнительное время, в течении трех месяцев.
+## **Tietoja kurssista:**
 
-Глину и другие материалы можно приобрести у нас в студии, 16€ за 10кг глины. Глазури оплачиваются раз в полгода -- 18€.
+ 
 
-## Расписание студии
+Hinnat:
 
-Neulamäen Nuorisotalo  
-​Вторник  16:00 -- 19:00
+* ​kurssin maksu 80€ (sis. 16 kertaa)
 
-Jynkän Monari  
-Четверг 15:30 -- 17:30
 
-Männistön Nuorisotalo  
-Среда 16:00 -- 18:00
+* tutustumiskerta 5€ (sis. savi, poltot)
 
-## Контакты
+​​Hinnat sisältävät: pajan vuokraa, poltot sekä opettajan apu.
 
-Руководитель курса --- Альбина Пенние,  
-тел. 046 564 3687
+On myös mahdollista korvata poissaolot kolmen kuukauden ajalla.
 
-Facebook: https://www.facebook.com/albina.ponnio.9
+Muut materiaalit kuten savi ja metallilangat voi ostaa suoraan pajalta: 10kg savipaketti on 16 €. Lasitteet maksetaan kerran puolessa vuodessa 18€.
 
-Организатор курса --- Lumikello ry
+## **Studion aikataulu:** 
+
+Neulamäen Nuorisotalo 
+
+Tiistai     16.00-18.00
+
+Jynkän Monari ​
+
+Torstai 15.30-17.30
+
+Männistön Nuorisotalo 
+
+Keskiviikko 16.00-18.00
+
+## **Yhteystiedot:**
+
+Kurssinohjaaja :
+
+Albina Pönniö
+
+puh. 046 564 3687
+
+albinaponnio@hotmail.com
+
+ Kurssin järjestäjä:
+
+Lumikello ry   
+
+lumikellokuopio@gmail.com.
 
 ​![](/uploads/porcelain-studio-04.jpg)

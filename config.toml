@@ -75,7 +75,7 @@ url = "/page/statute/"
 weight = 2
 [languages.ru.params]
 address = "Куопио, Финляндия"
-author = "Lumikelo ry"
+author = "Lumikello ry"
 dateformat = "2 January 2006"
 description = "благотворительная организация Лумикелло Рю"
 info = ""

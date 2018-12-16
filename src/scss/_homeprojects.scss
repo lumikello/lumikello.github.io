@@ -60,7 +60,7 @@
         }
       }
     }
-    &:last-child {
+    &:last-child:nth-child(odd) {
       flex-basis: 100%;
     }
     .card {

@@ -70,6 +70,10 @@ name = "Календарь"
 url = "/page/calendar/"
 weight = 2
 [[languages.ru.menu.main]]
+name = "Практика у нас"
+url = "/page/practice/"
+weight = 2
+[[languages.ru.menu.main]]
 name = "Устав"
 url = "/page/statute/"
 weight = 2

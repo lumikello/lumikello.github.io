@@ -43,7 +43,9 @@ body {
       display: flex;
       flex: 1 1 auto;
       flex-direction: column;
+      max-width: 100vw;
       min-height: 100vh;
+      overflow-x: auto;
 
       & > header,
       & > main {
@@ -115,17 +117,32 @@ input[type="reset"] {
 
 h1 {
   color: $color-header-1;
-  font-size: 3.12em;
+  font-size: 1.32em;
+  @media #{$medium-and-up} {
+    font-size: 2.56em;
+  }
+  @media #{$large-and-up} {
+    font-size: 3.12em;
+  }
 }
 
 h2 {
   color: $color-header-2;
-  font-size: 2.56em;
+  font-size: 1.16em;
+  @media #{$medium-and-up} {
+    font-size: 1.72em;
+  }
+  @media #{$large-and-up} {
+    font-size: 2.56em;
+  }
 }
 
 h3 {
   color: $color-footer-text;
-  font-size: 1.32em;
+  font-size: 1em;
+  @media #{$large-and-up} {
+    font-size: 1.32em;
+  }
 }
 
 iframe {

@@ -53,6 +53,8 @@ Männistön Nuorisotalo
 
 Facebook: https://www.facebook.com/albina.ponnio.9
 
+Для записи на курс, пожалуйста заполните анкету: [https://goo.gl/forms/AqPqK29IpWmy1G083](https://goo.gl/forms/AqPqK29IpWmy1G083 "Анкета")
+
 Организатор курса --- Lumikello ry
 
 ​![](/uploads/porcelain-studio-04.jpg)

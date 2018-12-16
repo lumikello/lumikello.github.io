@@ -7,13 +7,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/art-studio/"
+                hreflang="fi"
+                href="/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/art-studio/"
+                hreflang="en"
+                href="/en/project/art-studio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,13 +47,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/dance-school/"
+                hreflang="fi"
+                href="/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/dance-school/"
+                hreflang="en"
+                href="/en/project/dance-school/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/ru/project/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D1%82%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F-%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D0%BB%D0%B8/</loc>
+    <loc>/ru/project/aquarelli/</loc>
     <lastmod>2018-12-16T22:03:53+02:00</lastmod>
   </url>
   
@@ -92,13 +92,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/finnish-advanced/"
+                hreflang="fi"
+                href="/project/finnish-advanced/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/finnish-advanced/"
+                hreflang="en"
+                href="/en/project/finnish-advanced/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -148,22 +148,17 @@
   </url>
   
   <url>
-    <loc>/ru/project/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-lumikello-ry/</loc>
-    <lastmod>2018-12-14T22:12:37+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/ru/project/adaptation-camp/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/adaptation-camp/"
+                hreflang="fi"
+                href="/project/adaptation-camp/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/adaptation-camp/"
+                hreflang="en"
+                href="/en/project/adaptation-camp/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -178,17 +173,22 @@
   </url>
   
   <url>
+    <loc>/ru/page/practice/</loc>
+    <lastmod>2018-12-14T22:12:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ru/project/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/"
+                hreflang="fi"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/"
+                hreflang="en"
+                href="/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -202,13 +202,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
+                hreflang="fi"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/categories/"
+                hreflang="en"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -223,13 +223,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="fi"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/"
+                hreflang="en"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -240,16 +240,17 @@
   
   <url>
     <loc>/ru/page/</loc>
+    <lastmod>2018-12-14T22:12:37+02:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/page/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
                 href="/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -263,13 +264,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
+                hreflang="fi"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/tags/"
+                hreflang="en"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,62 +1,29 @@
 +++
 date = "2018-11-11"
-title = "детская школа Танца"
-weight = 2
-picture = "/uploads/dance-school.jpg"
 description = "Комплекс разработан для детей от 3 лет и направлен на грамотное развитие ребёнка: осанка, гибкость, растяжка, физическая выносливость."
+picture = "/uploads/dance-school.jpg"
+title = "Lasten tanssistudio"
+weight = 2
 
 +++
-Дорогие друзья, Объявляется набор мальчиков и девочек в детскую школу танца г.Куопио в возрасте 3-4 года (младшая группа), 5-7 лет ( группа общего танцевального развития) и 8 -12 лет (старшая группа). Состав групп 8-10 человек. 
- 
-Занятия по хореографии для детей включают партерную гимнастику, ритмику, музыкально-игровые упражнения, упражнения на развитие пластики, творческую импровизацию, хореографические этюды, постановку танцевальных номеров. 
- 
-Данный комплекс разработан для детей от 3 лет и направлен на грамотное развитие ребёнка: осанка, гибкость, растяжка, физическая выносливость. 
+Tervetuloa Anna Koskin tanssikouluun! 
 
-## Расписание
+####  Lastentanssi-ilmaisu: 3-4 vuotiaat
 
-Первые занятия начнутся 18.8.2018
+Lapsi täyttää 3-4 vuotta vuoden loppuun menessä
 
-Танцевальные занятия (на русском языке) будут проходить по субботам . 
+Leikinomaisessa muodossa tutustutaan tanssin perusteisiin, työskentelyyn ryhmässä, parin kanssa ja yksetellen. Opitaan hahmottamaan muotoa, tilaa, musiikkia ja rytmiä. Jokaisella oppitunnilla on luova osuus, jossa saa tanssin keinoin ilmaista omia tunteitaan ja ajatuksiaan kannustavassa ilmapiirissä. Tanssileikkitunneilta saa hyvät valmiudet jatkaa tanssiharrastusta niin lasten luovan tanssin ja lasten baletin kuin muillakin tunneilla 5 vuotiaana.
 
-9.20-10.05 (45 мин.) младшая группа 3-4 года   
-10.10-11.10 (60 мин)  утренняя средняя группа 5-7 лет  
-17.00-18.00 (60 мин) вечерняя средняя группа 5-7 лет  
-18.05-19.05 (60 мин) старшая группа 8-12 лет.
+3-4 vuotialla on yksi 45 minuutin tanssintunti kerran viikossa. 
 
-Адресу: г. Куопио, Kulttuuriareena 44 (Kauppakatu 44) танцевальный класс, 2 этаж.
+#### Perusopinnot  (luova tanssi): 5-7 vuotiaat
 
-Стоимость курса 80€ (19 занятий 18.8-22.12)
+Tunti tarjoaa tanssi-ilmaisua ja tekniikkaa ikäkaudelle sopivassa muodossa. Tutustutaan tanssin peruselementteihin- muutoon, liikkeeseen, tilaan, rytmiin, energiaan- ja etsitään niistä aineksia omaan tanssi-ilmaisuun. Tunneilla harjoiteltavat laukat, loikat, pyörimiset ja kuperkeikat jalostuvat ja tarkentuvat myöhemmin tanssitekniikaksi. Ryhmässä toimimisen taitoa harjoitellaan ja opetellaan oman vuoron odottamista, pareittain työskentelyä sekä piirien, jonojen ja muiden muodostelmien hahmottamista. Opetus antaa hyvät valmiudet tanssiharrastuksen jatkamiseen niin nykytänssi kuin baletin tunneilla 8- vuotiaana.
 
-Будем рады видеть Вас на наших занятиях!
+5-7 vuotialla on yksi 60 minuutin tanssintunti kerran viikossa.
 
-## Необходимо для занятий
+#### Tanssin perusteet 8-10 vuotiaat
 
-Уважаемые родители, просим приобрести Вас индивидуальный гимнастический коврик к первому занятию.
+Oppitunnit sisältävät perusteita klassisesta baletista ja luovia harjoitteita skä elementteja eri maiden kansantansseista. Tunneilla opitaan myös kehonhuoltoa ja tanssitietoutta. Harjoitellaan klassisen baletin perusliikkeita tanko- ja keskilattialla sekä tilan läpi liikkuvia tanssiliikkeita ja hyppyjä..Opiskellaan oikean kehon asennon löytymista, lihasvoimaa ja notkeutta, harjoitellaan musikaalista liikkeen suorittamista ja rytmin hahmottamista.
 
-### Для девочек
-* балетный (гимнастический) купальник без юбки, для младшей группы любого цвета
-для средней и старшей групп черного цвета (трико). Трико девочке выбирайте с содержанием лайкры, он более аккуратно облегает фигуру и смотрится более эстетично. Купальник, как правило, шьют из синтетической, растягивающейся ткани, но можно подобрать и из натуральной. Выбирая размер формы необходимо учитывать, что после первой стирки она может немного сесть. Длина рукава в трико может быть различной.
-* юбка для занятий, длина юбки подбирается индивидуально под ребёнка (для правильного выбора ребёнок опускает руки вниз, они должны доставать до низа юбки);
-* белые (черные) плотные колготки, а также лосины - зимой, велосипедки - летом, белые носки (гольфы, гетры любого цвета, что бы лучше разогревались мышцы ног во время урока);
-* балетки тканевые (кожаные) белого цвета
-
-### Для мальчиков
-* черные шорты, лосины, велосипедки;
-* гимнастическая футболка (матовая хлопковая ткань);
-гимнастическая футболка для мальчиков выбирается по сезону (короткий, длинный рукав) из эластичной ткани.
-* белые носки;
-* черные балетки
-
-Форму для занятий хореографией приобретайте в специализированных магазинах.
-
-### Прически
-Девочки обязательно приходят на занятия с гладко убранными волосами, забранными в пучок. А мальчики аккуратно причесанными.
-
-## Контакты
-
-Педагог --- Анна Коски. Опыт преподавания 28 лет, с 2004 года педагог классического и характерного танца в Kuopion Tanssistudio. Окончила Карельское культурно-просветительное училище и Санкт-Петербургскую государственную академию культуры и искусств им. Н.К. Крупской по специальности педагог-хореограф.
-
-Тел: 0407716489,  
-е-mail: anya.koski@gmail.com
-
-Организатор курса --- Lumikello ry
+8-10 vuotiailla on 60 minuutin tanssitunti kerran viikossa.

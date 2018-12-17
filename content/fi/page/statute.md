@@ -3,88 +3,98 @@ slug = "statute"
 title = "Perustamiskirja"
 
 +++
-1. Наименование и место нахождения организации
+Lumikello ry
 
-    Наименование организации - Зарегистрированное объединение «Лумикелло» (Lumikello ry), местонахождение  - город Куопио.
+Säännöt
 
-2. Цель и характер деятельности
+1\. Yhdistyksen nimi ja kotipaikka
 
-    Зарегистрированное объединение «Лумикелло» (Lumikello ry) не связано с политикой и религией. Оно поддерживает детей, молодежь и инвалидов, живущих в особо тяжелых условиях, и стремится способствовать осуществлению их прав в Финляндии и сопредельных государствах. Наша концепция - это рост благосостояния детей, молодежи и инвалидов, осуществление права на жизнь, защиту, развитие и участие каждого человека. Наша задача заключается в том, чтобы улучшить отношение к детям, молодежи и инвалидам, а также добиться непосредственного и постоянного улучшения их жизни.
+Yhdistyksen nimi on        Lumikello ry            
 
-    Для осуществления своей цели общество организовывает и поддерживает развивающую, образовательную, досуговую и волонтерскую деятельность и информирование как самостоятельно, так и в сотрудничестве с членами общества.
+ja sen kotipaikka on      Kuopion kaupunki                      
 
-    К тому же общество может работать с другими объединениями. Общество организует собрания, а также руководит и консультирует своих членов по вопросам, касающимся сотрудничества, и выступает с изложениями и инициативами. Общество организует курсы, кружки и досуговую деятельность, а также лагеря. Общество может иметь, управлять или снимать для своей деятельности необходимое движимое и недвижимое имущество.
+2\. Tarkoitus ja toiminnan laatu
 
-    В поддержку своей деятельности после получения разрешения от компетентного должностного лица общество может:
+Lumikello ry poliittisesti ja uskonnollisesti sitoutumaton järjestö, joka tukee erityisesti vaikeissa oloissa eläviä lapsia, nuoria ja vammaisia, ja pyrkii edistämään heidän oikeuksien toteutumista Suomessa ja naapurimaissa. Visionamme on lasten, nuorten ja vammaisten hyvinvoinnin edistyminen, jossa toteutuu jokaisen ihmisen oikeus elämään, suojeluun, kehittymiseen ja osallistumiseen. Tehtävänämme on parantaa sitä tapaa, jolla lapsia, nuoria ja vammaisia kohdellaan sekä saada aikaan välittömiä ja pysyviä parannuksia heidän elämään. 
 
-    * Принимать пожертвования, завещания и поддержку
-    * Организовывать сборы денег и лотереи
-    * Организовывать курсы и развлекательные мероприятия
-    * Организовывать ярмарки
-    * Заниматься организацией кафе, продажей алкоголя в месте проведения мероприятий
+Tarkoituksensa toteuttamiseksi yhdistys järjestää ja ylläpitää kehittämis-, koulutus-, harrastus- ja vapaaehtoistoimintaa ja tiedottamista joko itse tai yhteistyössä jäsenten kanssa. Lisäksi yhdistys voi toimia toisten yhteisöjen kanssa. Yhdistys järjestää kokouksia sekä ohjaa ja neuvoo jäseniään näiden yhteistoimintaan kuuluvissa asioissa ja tekee esityksiä ja aloitteita. Yhdistys järjestää kursseja, kerho- ja harrastustoimintaa sekä leirejä.
 
-    В поддержку своей деятельности общество может принимать поддержку, пожертвования и завещания.
+Yhdistys voi omistaa, hallita ja vuokrata toimintaansa varten tarpeellista irtainta ja kiinteää omaisuutta. 
 
-3. Членом общества может стать каждый, кто принимает устав и цели общества. Прием в члены общества осуществляет правление по заявлению.
+Toimintansa tukemiseksi yhdistys voi, hankittuaan asianomaisen viranomaisen luvan:
 
-4. Выход и исключение членов общества
+ottaa vastaan lahjoituksia, testamentteja ja avustuksia
 
-    У члена общества есть право выйти из общества, объявив об этом в письменной форме правлению или его председателю, или объявив о выходе на собрании общества с занесением в протокол. Правление может исключить члена общества, если он не оплатил членский взнос или не выполнил те обязательства, которые принял на себя при вступлении в общество, или своим поведением в обществе или за его пределами значительно навредил обществу или больше не выполняет указанные в законе или уставе общества условия членства.
+järjestää rahankeräyksiä ja arpajaisia
 
-5. Вступительный и членский взнос
+järjestää kursseja ja huvitilaisuuksia
 
-    Размер вступительного взноса и годового членского взноса, взимаемого с членов общества, определяет ежегодное собрание.
+järjestää myyjäisiä
 
-6. Правление
+harjoittaa yhdessä toimipaikassa kahvilaliikettäю
 
-    Делами общества руководит правление, в которое входят избранные на ежегодном собрании председатель и 2-5 других основных членов правления, а также 0-2 заместителя. Срок службы правления - время между ежегодными собраниями. Правление выбирает среди своих членов заместителя председателя правления, а также назначает среди своих членов правления или извне секретаря, финансового директора и других необходимых сотрудников. У общества может быть избранный правлением исполнительный директор, который должен в соответствии с инструкциями и распоряжениями правления осуществлять текущее управление обществом. Зарплату, выплачиваемую исполнительному директору, назначает правление общества.
+Toimintansa tukemiseksi yhdistys voi vastaanottaa avustuksia, lahjoituksia ja testamentteja.
 
-    Правление собирается по приглашению председателя или, в его отсутствие, заместителя председателя, если они считают это необходимым или не менее половины членов правления требует этого. Правление является правомочным, если не менее половины его членов, включая председателя или заместителя председателя, присутствуют на собрании. Исход голосования определяется большинством голосов. При равном количестве голосов решающим является голос председателя, на выборах - жеребьевка.
+3\. Jäsenet
 
-7. Право подписи
+Yhdistykseen jäseneksi voi liittyä jokainen, joka hyväksyy yhdistyksen tarkoituksen ja säännöt. Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. 
 
-    Подписывать документы может председатель правления, заместитель председателя правления, секретарь или финансовый директор, по двое единовременно.
+4\. Jäsenen eroaminen ja erottaminen
 
-8. Отчетный период и аудиторская проверка
+Jäsenellä on oikeus erota yhdistyksestä ilmoittamalla siitä kirjallisesti hallitukselle tai sen puheenjohtajalle taikka ilmoittamalla erosta yhdistyksen kokouksessa merkittäväksi pöytäkirjaan. Hallitus voi erottaa jäsenen yhdistyksestä, jos jäsen on jättänyt erääntyneen jäsenmaksunsa maksamatta tai muuten jättänyt täyttämättä ne velvoitukset, joihin hän on yhdistykseen liittymällä sitoutunut tai on menettelyllään yhdistyksessä tai sen ulkopuolella huomattavasti vahingoittanut yhdistystä tai ei enää täytä laissa taikka yhdistyksen säännöissä mainittuja jäsenyyden ehtoja. 
 
-    Отчетный период общества – календарный год. Финансовый отчет со всеми необходимыми документами и годовой отчет правления необходимо предоставить инспекторам/аудиторам не позднее, чем за месяц до ежегодного собрания. Инспекторы/аудиторы должны предоставить свое письменное заключение правлению не позднее, чем за две недели до ежегодного собрания.
+5\. Liittymis- ja jäsenmaksu
 
-9. Собрания общества
+Jäseniltä perittävän liittymismaksun ja vuotuisen jäsenmaksun suuruudesta päättää vuosikokous. 
 
-    В собрании общества можно участвовать по решению правления или собрания общества также по почте или с помощью средств коммуникации или другой техники во время или до собрания.
+6\. Hallitus
 
-    Ежегодное собрание общества проводится ежегодно в день, назначенный правлением, в январе-феврале. Внеочередное собрание проводится, если так решит собрание общества или если правление видит в этом необходимость, или хотя бы десятая часть (1/10) членов общества, уполномоченных голосовать, в письменном виде потребуют этого от правления в связи с особым случаем. Собрание необходимо провести в течение тридцати суток после того, как требование о его проведении было представлено правлению. На собрании у каждого члена общества имеется по одному голосу. На собрании принимается то решение, за которое было отдано больше половины всех голосов, если иное не определено в уставе. При равном количестве голосов решающим является голос председателя, на выборах - жеребьевка.
+Yhdistyksen asioita hoitaa hallitus, johon kuuluu vuosikokouksessa valitut puheenjohtaja ja 2-5 muuta varsinaista jäsentä sekä 0-2 varajäsentä. Hallituksen toimikausi on vuosikokousten välinen aika. Hallitus valitsee keskuudestaan varapuheenjohtajan sekä ottaa keskuudestaan tai ulkopuoleltaan sihteerin, rahastonhoitajan ja muut tarvittavat toimihenkilöt. Yhdistyksellä voi olla hallituksen valitsema toiminnanjohtaja, jonka tulee hallituksen ohjeiden ja määräysten mukaan hoitaa yhdistyksen juoksevaa hallintoa. Toiminnanjohtajalle suoritettavan palkan määrää yhdistyksen hallitus. 
 
-10. Созыв собрания общества
+Hallitus kokoontuu puheenjohtajan tai hänen estyneenä ollessaan varapuheenjohtajan kutsusta, kun he katsovat siihen olevan aihetta tai kun vähintään puolet hallituksen jäsenistä sitä vaatii. Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, puheenjohtaja tai varapuheenjohtaja mukaan luettuna on läsnä. Äänestykset ratkaistaan ehdottomalla ääntenenemmistöllä. Äänten mennessä tasan ratkaisee puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
-    Правлению необходимо объявить о созыве собрания общества не позднее, чем за семь суток до собрания, отправив письма членам общества по почте, объявив об этом в газете, выпускаемой на месте нахождения общества, или по электронной почте.
+7\. Yhdistyksen nimen kirjoittaminen
 
-11. Ежегодное собрание
+Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja, varapuheenjohtaja, sihteeri tai rahastonhoitaja, kaksi yhdessä. 
 
-    На ежегодном собрании общества рассматриваются следующие вопросы:
+8\. Tilikausi ja tilintarkastus
 
-    1. открытие собрания
+Yhdistyksen tilikausi on kalenterivuosi. Tilinpäätös tarvittavine asiakirjoineen ja hallituksen vuosikertomus on annettava toiminnantarkastajille/tilintarkastajille viimeistään kuukautta ennen vuosikokousta. Toiminnantarkastajien/tilintarkastajien tulee antaa kirjallinen lausuntonsa viimeistään kaksi viikkoa ennen vuosikokousta hallitukselle.
 
-    2. избирается председатель собрания, секретарь, два инспектора протокола и при необходимости два лица, ответственные за подсчет голосов
+9. Yhdistyksen kokoukset
 
-    3. подтверждается законность и правомочность собрания
+Yhdistyksen kokoukseen voidaan osallistua hallituksen tai yhdistyksen kokouksen niin päättäessä myös postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta. Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä tammi-toukokuussa. Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kymmenesosa (1/10) yhdistyksen äänioikeutetuista jäsenistä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii. Kokous on pidettävä kolmenkymmenen vuorokauden kuluessa siitä, kun vaatimus sen pitämisestä on esitetty hallitukselle. Yhdistyksen kokouksissa on jokaisella jäsenellä yksi ääni. Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
-    4. принимается регламент собрания
+10\. Yhdistyksen kokousten koollekutsuminen
 
-    5. представляется финансовый отчет, годовой отчет и заключение инспекторов/аудиторов
+Hallituksen on kutsuttava yhdistyksen kokoukset koolle vähintään seitsemän vuorokautta ennen kokousta jäsenille postitetuilla kirjeillä, yhdistyksen kotipaikkakunnalla ilmestyvässä sanomalehdessä tai sähköpostitse.
 
-    6. выносится решение об утверждении финансового отчета и освобождении от обязательств правления или других ответственных лиц
+11\. Vuosikokous
 
-    7. утверждается план действий, приходо-расходная смета, а также величина вступительного и членского взноса
+Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
 
-    8. избираются председатель правления и другие члены общества
+1\. kokouksen avaus
 
-    9. избираются один или два инспектора и заместителя инспектора или один или два аудитора или заместителя аудитора.
+2\.valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 
-    10. рассматриваются другие, обозначенные в приглашении на собрание, вопросы.
+3\.todetaan kokouksen laillisuus ja päätösvaltaisuus
 
-    Если член общества хочет, чтобы на ежегодном собрании общества был рассмотрен конкретный вопрос, ему необходимо объявить об этом правлению в письменной форме заблаговременно, чтобы его смогли отметить в приглашении на собрании.
+4\.hyväksytään kokouksen työjärjestys
 
-12. Изменение устава и упразднение общества
+5\.esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien/tilintarkastajien lausunto
 
-    Решение об изменении устава и упразднении общества принимается на собрании большинством голосов не менее ¾ от общего числа голосов. В приглашении на собрании необходимо упомянуть об изменении устава или упразднении общества. При упразднении общества его средства используются для продвижения цели общества, установленным собранием, выносящем решение об упразднении общества, образом. При прекращении существования общества его средства используются с той же целью.
+6\.päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille
+
+7\.vahvistetaan toimintasuunnitelma, tulo- ja menoarvio sekä liittymis- ja jäsenmaksun suuruus
+
+8\.valitaan hallituksen puheenjohtaja ja muut jäsenet
+
+9\.valitaan yksi tai kaksi toiminnantarkastajaa ja varatoiminnantarkastajaa taikka yksi tai kaksi tilintarkastajaa ja varatilintarkastajaa
+
+10\.käsitellään muut kokouskutsussa mainitut asiat.
+
+Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen vuosikokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun. 
+
+12\. Sääntöjen muuttaminen ja yhdistyksen purkaminen
+
+Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta. Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Yhdistyksen tullessa lakkautetuksi käytetään sen varat samaan tarkoitukseen.

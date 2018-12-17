@@ -284,13 +284,13 @@
     <loc>/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/page/dataprotection/"
+                hreflang="en"
+                href="/en/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/page/dataprotection/"
+                hreflang="ru"
+                href="/ru/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

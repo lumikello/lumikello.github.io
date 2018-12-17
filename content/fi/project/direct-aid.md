@@ -6,48 +6,30 @@ title = "Tavara-apu"
 weight = 3
 
 +++
-Один из основных видов деятельности  Lumikello ry --- это координация и сбор гуманитарной помощи для детей, проживающих в интернатах и детских домах России.
+Yksi Lumikello ry:n päätoiminnoista on humanitarisen avun keräily ja toimittaminen venäläisten lastenkotien lapsille.
 
-## О проекте «Натуральная помощь»
+Monilta teistä löytyy pieniksi jääneitä vaatteita, mutta aina on lapsia, joille nekin olisivat tarpeen. 
 
-На сегодняшний день мы активно занимаемся проектом "Натуральная помощь". Вы можете помочь, приняв участие в проекте!
+Mikäli te haluatte auttaa lapsia antamalla tavara-apua, muistuttaisimme muutamasta asiasta: 
 
-Нам нужны:
-* люди для организации сбора и сортировки товаров в Куопио
-* помощники по поиску попутных машин
-* водители и пассажиры, кто мог бы прихватить посылочки в Петрозаводск 
+* Lelujen pitää olla ehjiä, siistejä ja toimivia. 
 
-Помощь нашим подопечным выражена в том числе и объемом. Мы будем очень рады сотрудничеству с Вами! Если Вы едете в Петрозаводск и Ваш багаж позволяет добавить пару пакетов до разрешенных к провозу 50 кг на человека, не сочтите за труд, прихватите, пожалуйста, и наши посылки! 
 
-Встретиться и передать можно будет по предварительной договоренности, пишите сообщения нашему идейному вдохновителю и инициативному представителю --- Валентине Прошкиной в ВК: https://vk.com/vkinnunen или по адресу эл. почты: valproshkina@gmail.com 
+* Voitte antaa myös ns.kehittäviä lelujakin, kuten esim. helistimiä( jotka saavat olla muovia tai kumia, mutta ehdottomasti pestäviä) myös musiikkileluja, hienomotoriikkaleluja jne. 
 
-А в Петрозаводске вас встретят и направят помощь по назначению наши единомышленники.
 
-## Чем вы можете помочь
+* Lastenkodit eivät ota vastaan pehmoleluja, koska niitä ei voi desinfoida.
 
-Благодаря Вам, за первый год нашей работы мы отправили в Карелию более 2000 кг одежды и товаров первой необходимости для нуждающихся детей и семей!
 
-У многих из Вас остались в доме вещи, из которых уже вырос Ваш ребенок, но есть дети, которым они очень пригодятся. Если Вы решили помочь детям и передать для них вещи, гигиенические средства и пр., Вы должны знать некоторые правила.
+* Antaessanne vaatteita varmistautukaa, että ne ovat hyvässä kunnossa. Vaatteen pitää olla ehjä ja siisti. Vaatteissa ei saa olla reikiä. 
 
-### Игрушки
-Игрушки должны быть чистыми, целыми и в рабочем состоянии. Можно передать развивающие игрушки и игры, (строго моющиеся, качественные-пластмасса/резина) (погремушки, музыкальные игрушки, мобили, для моторики пальцев, и т. д.) 
 
-Мягкие игрушки детские дома не принимают, так как их невозможно обработать. 
+* Jalkineiden pitää olla hyvässä kunnossa (toimivat vetoketjut, pohjalliset, nauhat). 
 
-### Одежда
 
-При передаче одежды, убедитесь, что вещи находятся в ХОРОШЕМ состоянии . Вещи (одежда) должны быть чистыми. Вещи не должны быть рваными. 
+* Koulutarvikkeet: paperit, värityskirjat, lyijykynät, tussit, muovailuvahat ym. 
 
-Обувь не стоптанная, с рабочей молнией, со стельками и шнурками.
 
-### Повседневные средства
+* Lapset tarvitsevat myös tavallisia, laadukkaita hygieeniatavaroita - saippua, shampoo, voide, hammastahna ,hoitoaine jne . Hygieeniatavaroiden ei tule olla avattuja. Tarvetta on myös muille hygieenisille tavaroille: vaipoille, vanutuotteille (esim.vanulevyt, -puikot)
 
-Канцелярские товары: бумага, раскраски, карандаши, фломастеры, пластилин и др.
-
-Детям нужны обыкновенные, но качественные гигиенические средства --- мыло, зубная паста, крем, молочко для тела, присыпка, детское масло, шампунь и пр. 
-
-Санитарно-гигиенические средства не должны быть уже распечатанными или вскрытыми. 
-
-Средства гигиены: подгузники, пелёнки одноразовые, ватные палочки, ватные изделия (диски, шарики), влажные салфетки.
-
-**Спасибо вам**!
+Kiitos avustanne!

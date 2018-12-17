@@ -35,7 +35,6 @@ pages:
 - content/fi/project/ru-culture-studio.md
 - content/ru/project/porcelain-studio.md
 - content/fi/project/porcelain-studio.md
-- content/fi/project/somatics.md
 - content/ru/project/direct-aid.md
 - content/en/project/direct-aid.md
 - content/en/project/finnish-advanced.md
@@ -43,7 +42,6 @@ pages:
 - content/en/project/adaptation-camp.md
 - content/fi/project/adaptation-camp.md
 - content/en/project/theatre.md
-- content/fi/project/theatre.md
 - content/ru/project/dance-school.md
 - content/en/project/dance-school.md
 - content/fi/project/dance-school.md
@@ -58,3 +56,5 @@ pages:
 - content/ru/project/theatre.md
 - content/ru/project/adaptation-camp.md
 - content/fi/project/direct-aid.md
+- content/fi/project/theatre.md
+- content/fi/project/somatics.md

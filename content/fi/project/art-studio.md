@@ -2,65 +2,33 @@
 date = "2018-11-11"
 description = "Как достучаться до нашей творческой части, способной сделать нашу жизнь ярче, богаче и полнее? В этом вам поможет интуитивное (правополушарное) рисование."
 picture = "/uploads/art-studio.jpg"
-title = "студия Живописи"
+title = "Öljymaalaustyöpaja"
 weight = 1
 
 +++
-Хотели бы вы изменить свою жизнь к лучшему?
 
-Наладить отношения с любимым человеком и создать счастливую семью? Путешествовать, открывать новые страны и раскрывать свой творческий потенциал, а не терять драгоценное время жизни, не замечая, как время уносит день  
-за днем? Жить в комфорте и чувствовать гармонию?
+### Öljymaalaustyöpaja - ART-terapia. 
 
-Все это доступно каждому из нас, однако в суете дней мы зачастую просто не можем достучаться до скрытых способностей, которые могли бы преобразовать нашу жизнь. Там же, в глубине скрытого потенциала, хранятся и креативные решения для бизнеса, неожиданные ответы на стандартные вопросы, выход за рамки привычного и обыденного – то есть все то, что позволяет нам жить полной жизнью и самостоятельно творить каждый свой день.
+Haluaisitko kenties tehdä elämäsi paremmaksi? Jakaa lämpöä ja rakkautta ympärillesi? Elää mukavuudessa ja tuntea harmoniaa? Haluaisitko kehittää omia kykyjäsi – ja olla jo ylipäänsä tuhlaamatta elämäsi arvokasta aikaa? Arjen harmauden ja työpäivien kiireen keskellä, meiltä jää usein huomaamatta ne henkilökohtaiset piilevät taiteelliset kyvyt, jotka meissä jokaisessa on. Miten siis voisimme saavuttaa ne kyvyt?
 
-Но как же добраться до этой глубины? Как достучаться до нашей творческой части, способной сделать нашу жизнь ярче, богаче и полнее?
+Yksi ratkaisu voisi olla ART-terapia. Sen tarkoituksena on aktivoida visuaalisista havainnoista reagoivia aivoalueita. Lisääntyvän aktiivisuuden tuloksena näillä aivoalueilla syntyy uusia luovia ajatuksia ja ideoita, aukeaa uudenlainen laajempi maailma ja voimme elää omalla tavallamme täyttä elämää.
 
-В этом вам поможет интуитивное (правополушарное) рисование.
+ART-terapian tarkoituksena on auttaa ihmisiä erilaisten ongelmien keskellä, ymmärtämään niiden syyt, löytämään ratkaisuja ja pääsemään irti ongelmatilanteista. ART-terapia diagnosoi, hoitaa ja tuottaa mielihyvää. Käyttämällä hyväksi esimerkiksi ns. intuitio-piirtämistä, henkilön ymmärrys kasvaa etteivät kaikki hänen pelkonsa ja muut negatiiviset tunteensa olekaan niin lohduttomia ja ylipääsemättömiä.
 
-**Интуитивное рисование** приводит к активизации правого полушария, которое у человека отвечает за идеи, образы, творчество. В то время, как у взрослых, в основном доминирующим является левое – это логика, расчет, ограничения.
+Sinun ei tarvitse olla taiteilija osallistuaksesi ART-terapiaan, jokainen meistä osaa jonkin verran piirtää. ART-terapiassa ei vertailla, arvioida tai jaeta taidekritiikkiä. Jokainen saa olla oma itsensä.
 
-**Интуитивное рисование** -- как метод арт-терапии – это замечательный метод избежать внутренней цензуры, убрать эмоциональные блоки и взглянуть на мир и себя с другой стороны.
+### Studion edut:
 
-![](/uploads/art-studio-02.jpg)
+\- Hyvät tulokset jo ensimmäisellä tunnilla
 
-Арт-терапия ставит своей целью помочь человеку решить его проблему, понять в чем она заключается, рассмотреть разные и возможные пути выхода из создавшейся ситуации. И вот здесь интуитивное рисование и помогает. Страхи, зажимы, комплексы, отрицательные эмоциональные состояния становятся уже не такие значимые, не такие реальные и не такие безвыходные. Правополушарное рисование одновременно и лечит и диагностирует и приносит удовольствие от  
-самовыражения!
+\- Henkilökohtainen menetelmä jokaiselle osallistujalle
 
-Самое главное и значимое: **вам не надо быть художником**! Вы можете рисовать, даже если никогда раньше не пробовали!
+\- Aamu- ja iltaryhmät
 
-Арт-терапия против оценок, сравнений и критики!
+\- Studion tarjoamat tarvikkeet
 
-## Информация о курсе масляной живописи
+\- Mukava sijainti keskustassa
 
-Занятия проходят по адресу: Jynkän Monitoimitalo, Aittolammentie 11, 70780 Jynkkä.
-
-### Подростковая группа
-
-Занятия для подростков 12 -- 16 лет:
-
-Начало курса с 22 августа, занятия по понедельникам с 16.00 до 18.00.
-
-Стоимость участия:
-
-* ​Осенний курс включает в себя 15 занятий.
-* Стоимость курса 80€ .
-* 8€ разовое (пробное) посещение.
-
-### Совместная (взрослые/дети) группа
-
-Занятия по субботам с 10.30 до 12.30; и с 12.30 до 14.30.
-
-Стоимость 105 €
-
-### Контакты
-
-Руководитель курса:  Алена Хапонен,  
-тел. 0449878931
-
-Запись на курс через сообщение лично Алёне.
-
-Организатор курса -- Lumikello ry
-
-Присоединиться к нашей творческой компании Вы можете в любое время, так как у каждого свой режим работы, свой темп, а также свои стремления.
+\- Tilaisuudet, näyttelyt.
 
 ​![](/uploads/art-studio-03.jpg)

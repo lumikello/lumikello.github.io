@@ -125,16 +125,6 @@
   <url>
     <loc>/en/project/theatre/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="/project/theatre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/theatre/"
-                />
   </url>
   
   <url>
@@ -142,13 +132,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/somatics/"
+                hreflang="ru"
+                href="/ru/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/project/somatics/"
+                hreflang="fi"
+                href="/project/somatics/"
                 />
     <xhtml:link
                 rel="alternate"

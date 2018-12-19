@@ -1,6 +1,7 @@
 +++
 date = "2018-11-11"
-description = "Как достучаться до нашей творческой части, способной сделать нашу жизнь ярче, богаче и полнее? В этом вам поможет интуитивное (правополушарное) рисование."
+description = ""
+draft = true
 picture = "/uploads/art-studio.jpg"
 title = "Öljymaalaustyöpaja"
 weight = 1

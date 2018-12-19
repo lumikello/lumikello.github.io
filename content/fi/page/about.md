@@ -1,33 +1,26 @@
 +++
-title = "Me"
 slug = "about"
+title = "Me"
 
 +++
+Yhdistyksellä tehdään työtä vapaaehtoistoiminnan kautta. Jokaisella vapaaehtoisella on mahdollisuus ja oikeus osallistua toimintaan omien voimavarojen, toiveiden sekä positiivisten asenteiden mukaan.
 
-Lumikello ry --- это общественная организация, созданная для реализации благотворительных целей. 
+Yhdistystoiminnan alkuvaiheessa panostetaan projektityön ideointiin, yhteistyökumppaneiden etsimiseen, suhteiden luomiseen sekä erilaisten vapaa-ajan ja koulutustilaisuuksien järjestämiseen.
 
-Мы вместе, потому что способны отозваться на любую беду как на свою, потому что хотим превратить сочувствие в содействие, потому что для нас чужой беды не бывает…
+Kiitollisena otetaan vastaan teidän ehdotuksia ja toiveita, avoimella mielellä aloitetaan yhteistyötä ja verkostoidutaan. 
 
-Мы готовы помогать детям, молодежи и инвалидам, попавшим в трудную жизненную ситуацию.
+Jos haluat sekä olet valmis auttamaan vaikeassa elämäntilanteessa olevia ihmisiä, haluat vaikuttaa karjalaisten orpolasten, lapsiperheiden ja vammaisten elämän laadun ja hyvinvoinnin parantamiseen tule mukaan ja ole aktiivinen! 
 
-## Об организации
+Yhdessä apu, ilo ja positiiviset elämykset on helpompi tarjota!
 
-Наша работа в Lumikello ry строится на добровольной основе. Каждый участвует в деятельности исходя из своих собственных ресурсов, желаний и позитивного настроя.
+## Miten jäseneksi?
 
-На начальном этапе работы организация сосредоточена на разработке проектов деятельности, поиске  и привлечении партнеров, расширении связей, а также организации различных мероприятий с развивающей, образовательной и досуговой направленностью.
+Lumikello ry:n jäseniksi voivat tulla venäläiset, suomalaiset ja muut ulkomaalaiset, jotka ovat täyttäneet 18 vuotta, tukevat pysyvästi järjestön toimintaa vapaaehtoisesti.
 
-Мы с благодарностью откликнемся на любые Ваши предложения и пожелания, готовы к взаимодействию и сотрудничеству. Если Вы хотите  принять участие в судьбе людей, попавших в не легкие жизненные ситуации и повлиять на благополучие и улучшение качества жизни детей-сирот, людей с ограниченными возможностями, малообеспеченных и многодетных семей, присоединяйтесь, внесите свой посильный вклад! Вместе гораздо легче нести людям реальную помощь, добро и эмоции, которых порой, так не хватает.
+Lumikello ry - on ihmisten organisaatio, joka voi auttaa muita vaikeissa tilanteissa. Organisaatio on avoinna uusien jäsenten sekä uusien ideoiden huomioon ottamiselle ja yhteistyölle muiden humanitaaristen järjestöjen kanssa. 
 
-## Вступить в общество
+Jäsenmaksu 2018 on 20 €. 
 
-Членами Lumikello ry могут стать российские и иностранные граждане, достигшие 18 лет, на постоянной основе поддерживающие деятельность Организации добровольным участием. Lumikello ry - организация людей, способных откликнуться на чужую беду. Организация открыта для приема новых членов, рассмотрения новых идей и для сотрудничества с другими гуманитарными организациями.
+Jotta voit liittyä Lumikello ry:n jäseneksi, sinun on täytettävä [hakemus]() jäsenyydestä ja lähetettävä se osoitteeseen lumikellokuopio@gmail.com  tai soita ja tule tutustumaan.  
 
-Членский взнос на 2018 год составляет 20€. 
-
-Для того чтобы стать членом Lumikello ry нужно:
-
-* заполнить [заявление о вступлении](/uploads/docs/заявление о вступлении в общество.docx) в Общество и отправить по адресу lumikellokuopio@gmail.com, или  
-* заполнить [электронное заявление](https://goo.gl/forms/SBXz6iAAJVZF4FfD3), или    
-* позвонить и прийти к нам познакомиться.
-
-Если у вас остались вопросы относительно волонтерской работы и членства в Lumikello ry, мы будем рады на них ответить.
+Jos sinulla on kysyttävää vapaaehtoistyöstä ja jäsenyydestä Lumikello ry: ssä, voimme vastata niihin.

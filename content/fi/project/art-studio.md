@@ -1,6 +1,7 @@
 +++
 date = "2018-11-11"
 description = "Nuorille suunnattu art-terapeuttinen öljymaalaustyöpaja. Pajassa jokainen oppilas pääsee ilmaistaa itseään taitteen avulla."
+draft = true
 picture = "/uploads/art-studio.jpg"
 title = "Öljymaalaustyöpaja"
 weight = 1

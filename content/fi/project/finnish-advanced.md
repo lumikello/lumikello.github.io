@@ -1,9 +1,9 @@
 +++
 date = "2018-11-11"
-description = "Курс финского языка Suomi sujuvaksi, отличительная особенность которого - детальная проработка имеющихся речевых ошибок, объяснение на русском языке, занятия разговорной практикой."
-weight = 4
+description = "Suomen kielen kurssi on tarkoitettu aikuisille oppilaille. Kurssi on jaettu kolmelle vaikkeustasolle, joista jokainen löyttää sopivan. "
 picture = "/uploads/finnish-advanced.jpg"
 title = "Suomi sujuvaksi"
+weight = 4
 
 +++
 Lumikello ry предлагает свой курс финского языка "Suomi sujuvaksi", отличительная особенность которого --- детальная проработка имеющихся речевых ошибок, объяснение на русском языке, занятия разговорной практикой.

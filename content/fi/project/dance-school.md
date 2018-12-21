@@ -1,6 +1,6 @@
 +++
 date = "2018-11-11"
-description = "Tanssistudio on lastentanssiryhmiämme, joiden tavoitteena on kehittää hyvää ryhtiä, joustavuutta, sekä fyysistä toimintakykyä."
+description = "Lasten tanssistudio on leikkin, luovuden ja liikumisen ilo. Tanssistudion tavoitteena on kehittää hyvää ryhtiä, joustavuutta, sekä fyysistä toimintakykyä."
 picture = "/uploads/dance-school.jpg"
 title = "Lasten tanssistudio"
 weight = 2

@@ -7,6 +7,11 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fi"
+                href="/project/art-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/en/project/art-studio/"
                 />
@@ -162,13 +167,13 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/project/"
+                hreflang="en"
+                href="/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/project/"
+                hreflang="fi"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"

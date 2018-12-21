@@ -1,6 +1,6 @@
 +++
 date = "2018-11-11"
-description = "У многих из Вас остались в доме вещи, из которых уже вырос Ваш ребенок, но есть дети, которым они очень пригодятся."
+description = "Humanitarinen tavara-avustus Karjalaan. Auttaminen on helpompaa kun luulet. Ylmääräiset tai pieniksi jääneet lasten vaatteet ovat ilo monille perheille Karjalassa."
 picture = "/uploads/direct-aid.jpg"
 title = "Tavara-apu Karjalaan"
 weight = 3

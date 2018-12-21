@@ -1,6 +1,6 @@
 +++
 date = "2018-11-11"
-description = "Комплекс разработан для детей от 3 лет и направлен на грамотное развитие ребёнка: осанка, гибкость, растяжка, физическая выносливость."
+description = "Tanssistudio on lastentanssiryhmiämme, joiden tavoitteena on kehittää hyvää ryhtiä, joustavuutta, sekä fyysistä toimintakykyä."
 picture = "/uploads/dance-school.jpg"
 title = "Lasten tanssistudio"
 weight = 2

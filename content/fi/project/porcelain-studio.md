@@ -1,6 +1,6 @@
 +++
 date = "2018-11-11"
-description = "Из глины можно создать как посуду, так и скульптуру, поэтому на уроках мы не просто лепим из глины, а раскрываем творческий потенциал каждого ученика."
+description = "Lapsille tarkoitettu keramiikkatyöpaja, jossa tutustutaan erilaisiin saviteknikoihin dreijauksesta käsinrakentamiseen. "
 picture = "/uploads/porcelain-studio.jpg"
 title = "Keramiikkakurssi    \"Lateramin\""
 weight = 5
@@ -11,8 +11,6 @@ weight = 5
 Keramiikkakurssilla me tutustutaan erilaisiin teknikkoihin käsinrakentamisesta muovailukoneeseen.
 
 Käytössämme on myös kipsimuotteja, joiden avulla saa nopeasti hyvät astiat. Opettelemme myös erilaisia koristeluteknikoita: leimasimet, lasitteiden ja enkopien käyttö jne.
-
-Kurssi järjestetään kerran viikossa, tuntien teema vaihtuu joka toinen viikko.
 
 Joka toinen viikko on dreijauskurssi.
 

@@ -15,4 +15,5 @@ fields:
     required: true
 pages:
 - content/fi/page/statute.md
+- content/fi/page/harrastuksen-aloittaminen.md
 - content/ru/все-способы-помочь.md

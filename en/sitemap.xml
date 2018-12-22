@@ -215,13 +215,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/categories/"
+                hreflang="ru"
+                href="/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/categories/"
+                hreflang="fi"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -236,13 +236,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/"
+                hreflang="ru"
+                href="/ru/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/"
+                hreflang="fi"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -256,13 +256,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/page/"
+                hreflang="ru"
+                href="/ru/page/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/page/"
+                hreflang="fi"
+                href="/page/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -295,13 +295,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/tags/"
+                hreflang="ru"
+                href="/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/tags/"
+                hreflang="fi"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"

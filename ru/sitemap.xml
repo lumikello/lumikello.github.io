@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>/ru/project/%D1%8D%D0%BA%D0%BE-%D0%BA%D0%BB%D1%83%D0%B1-yellow-jackets/</loc>
+    <lastmod>2018-12-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ru/project/direct-aid/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -268,13 +273,13 @@
     <loc>/ru/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/page/dataprotection/"
+                hreflang="en"
+                href="/en/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/page/dataprotection/"
+                hreflang="fi"
+                href="/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

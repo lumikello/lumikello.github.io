@@ -41,7 +41,6 @@ pages:
 - content/en/project/adaptation-camp.md
 - content/fi/project/adaptation-camp.md
 - content/en/project/theatre.md
-- content/ru/project/dance-school.md
 - content/en/project/dance-school.md
 - content/fi/project/dance-school.md
 - content/ru/project/art-studio.md
@@ -52,6 +51,7 @@ pages:
 - content/fi/project/art-studio.md
 - content/fi/project/ru-culture-studio.md
 - content/ru/project/finnish-advanced.md
+- content/ru/project/dance-school.md
 - content/fi/project/direct-aid.md
 - content/ru/project/ru-culture-studio.md
 - content/ru/project/theatre.md

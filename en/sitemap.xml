@@ -112,6 +112,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fi"
+                href="/project/ru-culture-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/en/project/ru-culture-studio/"
                 />

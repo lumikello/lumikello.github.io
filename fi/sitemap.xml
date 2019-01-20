@@ -103,6 +103,26 @@
   </url>
   
   <url>
+    <loc>/project/ru-culture-studio/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/ru-culture-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/ru-culture-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/project/ru-culture-studio/"
+                />
+  </url>
+  
+  <url>
     <loc>/page/s%C3%A4%C3%A4nn%C3%B6t/</loc>
     <lastmod>2018-12-22T16:30:39+02:00</lastmod>
   </url>

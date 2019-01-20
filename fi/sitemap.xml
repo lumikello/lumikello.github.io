@@ -143,6 +143,26 @@
   </url>
   
   <url>
+    <loc>/project/adaptation-camp/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/adaptation-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/adaptation-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="/project/adaptation-camp/"
+                />
+  </url>
+  
+  <url>
     <loc>/page/s%C3%A4%C3%A4nn%C3%B6t/</loc>
     <lastmod>2018-12-22T16:30:39+02:00</lastmod>
   </url>
@@ -310,13 +330,13 @@
     <loc>/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="/ru/page/dataprotection/"
+                hreflang="en"
+                href="/en/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/page/dataprotection/"
+                hreflang="ru"
+                href="/ru/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

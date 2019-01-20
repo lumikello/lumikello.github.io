@@ -132,6 +132,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="/ru/project/theatre/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/en/project/theatre/"
                 />

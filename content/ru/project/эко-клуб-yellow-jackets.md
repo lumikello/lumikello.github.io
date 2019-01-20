@@ -27,3 +27,5 @@ weight = 3
   Количество мест ограничено!
 
 Запись в группу через [анкету](https://goo.gl/forms/AI1vVdHO4hvOINHs1  )
+
+Эко-клуб в [Facebook](https://www.facebook.com/EcoClubYJ/?__tn__=%2Cd%2CP-R&eid=ARAYzPyC18dbiOcg4eltaO55Odd6j15Yix7cs4pTMb0tbUp_s1HrESU3waMY2F-ouxnggWiNrPae-Yxy "Facebook")

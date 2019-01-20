@@ -1,6 +1,5 @@
 +++
 date = "2018-12-22T16:30:39+02:00"
-draft = true
 slug = "säännöt"
 title = "Harrastuksen aloittaminen"
 

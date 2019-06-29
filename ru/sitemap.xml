@@ -313,13 +313,13 @@
     <loc>/ru/page/dataprotection/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/page/dataprotection/"
+                hreflang="fi"
+                href="/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fi"
-                href="/page/dataprotection/"
+                hreflang="en"
+                href="/en/page/dataprotection/"
                 />
     <xhtml:link
                 rel="alternate"

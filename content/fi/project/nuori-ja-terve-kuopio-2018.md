@@ -1,7 +1,6 @@
 +++
 date = "2019-06-29T00:00:00+03:00"
 description = ""
-draft = true
 picture = "/uploads/vQOfjI0VZe0.jpg"
 title = "\"Nuori ja Terve Kuopio 2018\" "
 weight = 6

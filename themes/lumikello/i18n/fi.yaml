@@ -1,15 +1,15 @@
 ---
 - id: toggleNavigation
-  translation: Näytä/piilota navigointi
+  translation: "Näytä/piilota navigointi"
 - id: selectLanguage
-  translation: Valitse kieli
+  translation: "Valitse kieli"
 - id: openProject
-  translation: Lue lisää
+  translation: "Lue lisää"
 - id: projects
-  translation: Meidän projektit
+  translation: "Meidän projektit"
 - id: organization
-  translation: Yhdistys
+  translation: "Yhdistys"
 - id: contacts
-  translation: Yhteistiedot
+  translation: "Yhteistiedot"
 - id: partners
-  translation: Yhteistylkumppanit
+  translation: "Yhteistyökumppanit"

@@ -1,0 +1,5 @@
++++
+title = "Партнёры"
+slug = "partners"
+
++++

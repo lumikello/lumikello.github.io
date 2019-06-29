@@ -1,0 +1,5 @@
++++
+title = "Yhteistyökumppanit"
+slug = "partners"
+
++++

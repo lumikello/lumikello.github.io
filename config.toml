@@ -27,6 +27,10 @@ weight = 2
 name = "Contacts"
 url = "/page/contacts/"
 weight = 3
+[[languages.en.menu.main]]
+name = "Partners"
+url = "/page/partners/"
+weight = 4
 [languages.en.params]
 address = "Kuopio, Finland"
 author = "Lumikello ry"
@@ -58,6 +62,10 @@ weight = 2
 name = "Yhteistiedot"
 url = "/page/contacts/"
 weight = 3
+[[languages.fi.menu.main]]
+name = "Yhteistyökumppanit"
+url = "/page/partners/"
+weight = 4
 [languages.fi.params]
 address = "Kuopio, Suomi"
 author = "Lumikello ry"
@@ -89,6 +97,10 @@ weight = 2
 name = "Контакты"
 url = "/page/contacts/"
 weight = 3
+[[languages.ru.menu.main]]
+name = "Партнёры"
+url = "/page/partners/"
+weight = 4
 [languages.ru.params]
 address = "Куопио, Финляндия"
 author = "Lumikello ry"

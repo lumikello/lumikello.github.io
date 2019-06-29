@@ -21,7 +21,7 @@ Yhdistys voi harkintansa mukaan velvoittaa vanhemmat järjestämään kerholaisi
 #### Kerholainen
 
 * Sitoutuu noudattamaan yhdistyksen ja kerhon sääntöjä sekä ohjaajan ohjeita
-* Saapuu kerhoon ajoissa 
+* Saapuu kerhoon ajoissa
 * Käyttäytyy ystävällisesti tovereita ja ohjaajia kohtaan
 
 #### Vanhempi

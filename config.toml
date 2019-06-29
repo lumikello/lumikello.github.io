@@ -23,6 +23,10 @@ weight = 2
 name = "Statute"
 url = "/page/statute/"
 weight = 2
+[[languages.en.menu.main]]
+name = "Contacts"
+url = "/page/contacts/"
+weight = 3
 [languages.en.params]
 address = "Kuopio, Finland"
 author = "Lumikello ry"
@@ -50,6 +54,10 @@ weight = 2
 name = "Tietosuojaseloste"
 url = "/page/dataprotection/"
 weight = 2
+[[languages.fi.menu.main]]
+name = "Yhteistiedot"
+url = "/page/contacts/"
+weight = 3
 [languages.fi.params]
 address = "Kuopio, Suomi"
 author = "Lumikello ry"
@@ -77,6 +85,10 @@ weight = 2
 name = "Устав"
 url = "/page/statute/"
 weight = 2
+[[languages.ru.menu.main]]
+name = "Контакты"
+url = "/page/contacts/"
+weight = 3
 [languages.ru.params]
 address = "Куопио, Финляндия"
 author = "Lumikello ry"

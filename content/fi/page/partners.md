@@ -3,10 +3,15 @@ slug = "partners"
 title = "Yhteistyökumppanit"
 
 +++
-![](/uploads/title_r.gif "Материнское сердце") [http://daridobro.com/](http://daridobro.com/ "Фонд Материнское сердце")
 
-![](/uploads/vaakuna_kuopio.png)  [https://www.kuopio.fi/fi/etusivu](https://www.kuopio.fi/fi/etusivu "Kuopion Kaupunki")
+<div class="cards-grid">
 
-![](/uploads/STEA_logo.png)[https://www.stea.fi/](https://www.stea.fi/ "STEA")
+{{< card src="/uploads/title_r.gif" url="http://daridobro.com/" title="Карельский региональный благотворительный фонд «Материнское сердце»" link="Материнское сердце" >}}
 
-![](/uploads/SVK_logo.png)[http://www.svkeskus.fi/fi/](http://www.svkeskus.fi/fi/ "SVK")
+{{< card src="/uploads/vaakuna_kuopio.svg" url="https://www.kuopio.fi/fi/etusivu" title="Kuopion Kaupunki" link="Kuopion Kaupunki" >}}
+
+{{< card src="/uploads/STEA_logo.png" url="https://www.stea.fi" title="STEA" link="STEA" >}}
+
+{{< card src="/uploads/SVK_logo.png" url="http://www.svkeskus.fi/fi/" title="SVK" link="SVK" >}}
+
+</div>

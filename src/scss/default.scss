@@ -148,3 +148,20 @@ h3 {
 iframe {
   width: 100%;
 }
+
+.cards-grid {
+  /* Prevent vertical gaps */
+  line-height: 0;
+
+  -webkit-column-count: 3;
+  -webkit-column-gap: 12px;
+  -moz-column-count: 3;
+  -moz-column-gap: 12px;
+  column-count: 3;
+  column-gap: 12px;
+
+  & > div {
+    width: 100%;
+    display: inline-block;
+  }
+}

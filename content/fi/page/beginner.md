@@ -1,6 +1,6 @@
 +++
 date = "2018-12-22T16:30:39+02:00"
-slug = "säännöt"
+slug = "beginner"
 title = "Harrastuksen aloittaminen"
 
 +++

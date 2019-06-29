@@ -7,4 +7,4 @@ title = "\"Nuori ja Terve Kuopio 2018\" "
 weight = 6
 
 +++
-![](/uploads/9rPcvgfS7XY.jpg)![](/uploads/a8yKh9oHoCY.jpg)![](/uploads/fv8IgPvjvCo.jpg)![](/uploads/Lovehate-Kuopio_72.jpg)![](/uploads/UFzf4JyaPpU.jpg)![](/uploads/2Hj0To9zyvw.jpg)
+![](/uploads/9rPcvgfS7XY.jpg)![](/uploads/a8yKh9oHoCY.jpg)![](/uploads/fv8IgPvjvCo.jpg)![](/uploads/Lovehate-Kuopio_72.jpg)![](/uploads/UFzf4JyaPpU.jpg)![](/uploads/2Hj0To9zyvw.jpg)![](/uploads/38920196_1987682661276652_6419777090089910272_n.jpg)![](/uploads/OdKmWBOojJI.jpg)

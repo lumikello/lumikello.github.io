@@ -9,3 +9,7 @@
   translation: "Наши проекты"
 - id: organization
   translation: "Организация"
+- id: contacts
+  translation: "Контакты"
+- id: partners
+  translation: "Партнёры"

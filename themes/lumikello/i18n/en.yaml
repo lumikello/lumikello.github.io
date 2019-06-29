@@ -8,4 +8,8 @@
 - id: projects
   translation: "Projects"
 - id: organization
-  translation: "Organizations"
+  translation: "Organization"
+- id: contacts
+  translation: "Contacts"
+- id: partners
+  translation: "Partners"

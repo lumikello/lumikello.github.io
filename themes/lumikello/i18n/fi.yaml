@@ -6,6 +6,10 @@
 - id: openProject
   translation: Lue lisää
 - id: projects
-  translation: Meidät projektit
+  translation: Meidän projektit
 - id: organization
-  translation: Yritys
+  translation: Yhdistys
+- id: contacts
+  translation: Yhteistiedot
+- id: partners
+  translation: Yhteistylkumppanit

@@ -5,7 +5,7 @@ title = "Yhteistyökumppanit"
 +++
 <div class="cards-grid">
 
-{{< card src="/uploads/title_r.gif" url="http://daridobro.com/" title="Karjalan alueellinen hyväntekeväisyyssäätiö «Aäidin sydän»" link="Aäidin sydän" >}}
+{{< card src="/uploads/title_r.gif" url="http://daridobro.com/" title="Karjalan alueellinen hyväntekeväisyyssäätiö «Äidin sydän»" link="Äidin sydän" >}}
 
 {{< card src="/uploads/vaakuna_kuopio.svg" url="https://www.kuopio.fi/fi/etusivu" title="Kuopion Kaupunki" link="Kuopion Kaupunki" >}}
 

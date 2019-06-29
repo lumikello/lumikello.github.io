@@ -30,6 +30,7 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/fi/project/nuori-ja-terve-kuopio-2018.md
 - content/fi/project/somatics.md
 - content/fi/project/theatre.md
 - content/ru/project/эко-клуб-yellow-jackets.md

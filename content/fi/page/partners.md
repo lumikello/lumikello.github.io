@@ -1,5 +1,8 @@
 +++
-title = "Yhteistyökumppanit"
 slug = "partners"
+title = "Yhteistyökumppanit"
 
 +++
+![](/uploads/title_r.gif "Материнское сердце") [http://daridobro.com/](http://daridobro.com/ "Фонд Материнское сердце")
+
+![](/uploads/vaakuna_kuopio.png)  [https://www.kuopio.fi/fi/etusivu](https://www.kuopio.fi/fi/etusivu "Kuopion Kaupunki")

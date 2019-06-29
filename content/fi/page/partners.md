@@ -3,10 +3,9 @@ slug = "partners"
 title = "Yhteistyökumppanit"
 
 +++
-
 <div class="cards-grid">
 
-{{< card src="/uploads/title_r.gif" url="http://daridobro.com/" title="Карельский региональный благотворительный фонд «Материнское сердце»" link="Материнское сердце" >}}
+{{< card src="/uploads/title_r.gif" url="http://daridobro.com/" title="Karjalan alueellinen hyväntekeväisyyssäätiö «Aäidin sydän»" link="Aäidin sydän" >}}
 
 {{< card src="/uploads/vaakuna_kuopio.svg" url="https://www.kuopio.fi/fi/etusivu" title="Kuopion Kaupunki" link="Kuopion Kaupunki" >}}
 

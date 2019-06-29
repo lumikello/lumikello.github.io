@@ -176,5 +176,14 @@ Rekisterissä käsitellään Yhdistyksen jäsenien ja sen entisten jäsenien, Yh
 Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description>
     </item>
     
+    <item>
+      <title>Yhteistiedot</title>
+      <link>/page/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/contacts/</guid>
+      <description>@facebook &amp;ndash; https://www.facebook.com/lumikellory/</description>
+    </item>
+    
   </channel>
 </rss>

@@ -197,6 +197,15 @@ Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasain
     </item>
     
     <item>
+      <title>Контакты</title>
+      <link>/ru/page/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ru/page/contacts/</guid>
+      <description>@facebook &amp;ndash; https://www.facebook.com/lumikellory/</description>
+    </item>
+    
+    <item>
       <title>О нас</title>
       <link>/ru/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

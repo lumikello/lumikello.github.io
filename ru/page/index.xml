@@ -1,108 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Lumikello ry</title>
-    <link>/ru/page/</link>
-    <description>Recent content in Pages on Lumikello ry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language>
-    <lastBuildDate>Sun, 20 Jan 2019 09:36:18 +0200</lastBuildDate>
-    
-	<atom:link href="/ru/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Добро пожаловать на занятия!</title>
-      <link>/ru/page/beginner/</link>
-      <pubDate>Sun, 20 Jan 2019 09:36:18 +0200</pubDate>
-      
-      <guid>/ru/page/beginner/</guid>
-      <description>Инструкции для посетителей кружка/студии Общественная организация Lumikello ry предлагает качественные и разнообразные виды деятельности в свободное время для детей, молодежи и родителей (кружки, студии, мастер-классы), а также различные культурные мероприятия для интеграции мигрантов – детей, молодежи и их родителей – в современное финское общество.
-Подобрав подходящий кружок, зарегистрируйтесь с помощью Анкеты в выбранную группу. Плату за кружок необходимо внести сразу же в начале курса. Для новых участников первое занятие всегда бесплатно.</description>
-    </item>
-    
-    <item>
-      <title>Практика в Lumikello ry</title>
-      <link>/ru/page/practice/</link>
-      <pubDate>Fri, 14 Dec 2018 22:12:37 +0200</pubDate>
-      
-      <guid>/ru/page/practice/</guid>
-      <description>Lumikello ry - общественная организация в Финляндии (Куопио), занимающаяся, в первую очередь, социальной работой, т.е. помогает детям-инвалидам, воспитанникам детских домов и интернатов, детям из малообеспеченных семей и людям, оказавшимся в трудных жизненных ситуациях.
-Lumikello ry не рассматривает получение прибыли как первостепенную цель своей деятельности. Как и большинство иммигрантских организаций, в которых работает большое количество волонтёров, упор делается на огромную и нужную работу в оказании помощи детям, инвалидам, гражданам, находящимся в тяжелой жизненной ситуации, а также поддерживает цели интеграции, адаптации иностранцев к рабочей и социальной жизни в Финляндии.</description>
-    </item>
-    
-    <item>
-      <title>Tietosuojaseloste - Jäsenrekisteri</title>
-      <link>/ru/page/dataprotection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/page/dataprotection/</guid>
-      <description>Rekisterinpitäjä ja yhteyshenkilö
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Lumikello ry</title><link>/ru/page/</link><description>Recent content in Pages on Lumikello ry</description><generator>Hugo -- gohugo.io</generator><language>fi</language><lastBuildDate>Sun, 20 Jan 2019 09:36:18 +0200</lastBuildDate><atom:link href="/ru/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Добро пожаловать на занятия!</title><link>/ru/page/beginner/</link><pubDate>Sun, 20 Jan 2019 09:36:18 +0200</pubDate><guid>/ru/page/beginner/</guid><description>Инструкции для посетителей кружка/студии Общественная организация Lumikello ry предлагает качественные и разнообразные виды деятельности в свободное время для детей, молодежи и родителей (кружки, студии, мастер-классы), а также различные культурные мероприятия для интеграции мигрантов – детей, молодежи и их родителей – в современное финское общество.
+Подобрав подходящий кружок, зарегистрируйтесь с помощью Анкеты в выбранную группу. Плату за кружок необходимо внести сразу же в начале курса. Для новых участников первое занятие всегда бесплатно.</description></item><item><title>Практика в Lumikello ry</title><link>/ru/page/practice/</link><pubDate>Fri, 14 Dec 2018 22:12:37 +0200</pubDate><guid>/ru/page/practice/</guid><description>Lumikello ry - общественная организация в Финляндии (Куопио), занимающаяся, в первую очередь, социальной работой, т.е. помогает детям-инвалидам, воспитанникам детских домов и интернатов, детям из малообеспеченных семей и людям, оказавшимся в трудных жизненных ситуациях.
+Lumikello ry не рассматривает получение прибыли как первостепенную цель своей деятельности. Как и большинство иммигрантских организаций, в которых работает большое количество волонтёров, упор делается на огромную и нужную работу в оказании помощи детям, инвалидам, гражданам, находящимся в тяжелой жизненной ситуации, а также поддерживает цели интеграции, адаптации иностранцев к рабочей и социальной жизни в Финляндии.</description></item><item><title>Tietosuojaseloste - Jäsenrekisteri</title><link>/ru/page/dataprotection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ru/page/dataprotection/</guid><description>Rekisterinpitäjä ja yhteyshenkilö
 Rekisterinpitäjä: Lumikello ry, Y-tunnus 2819071-5 (&amp;ldquo;Yhdistys&amp;rdquo;)
 Osoite: Lumikello ry, Retiisikatu 2-4 N 54, 70820 Kuopio
 Sähköposti: lumikellokuopio@gmail.com
 Yhteyshenkilö: Valentina Proshkina
- Rekisteröidyt
+Rekisteröidyt
 Rekisterissä käsitellään Yhdistyksen jäsenien ja sen entisten jäsenien, Yhdistyksen asiakkaiden, Yhdistyksen toimintaan liittyvien organisaatioiden yhteyshenkilöiden sekä sen luottamushenkilöiden henkilötietoja (”Rekisteröity”).
- Henkilötietojen käsittelyn peruste ja käyttötarkoitus
-Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description>
-    </item>
-    
-    <item>
-      <title>Календарь</title>
-      <link>/ru/page/calendar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/page/calendar/</guid>
-      <description>Мы на каникулах с 1 июня по 10 августа! Увидимся в новом учебном году :)
- </description>
-    </item>
-    
-    <item>
-      <title>Контакты</title>
-      <link>/ru/page/contacts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/page/contacts/</guid>
-      <description>Свяжись с нами:
+Henkilötietojen käsittelyn peruste ja käyttötarkoitus
+Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description></item><item><title>Календарь</title><link>/ru/page/calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ru/page/calendar/</guid><description>Мы на каникулах с 1 июня по 10 августа! Увидимся в новом учебном году :)</description></item><item><title>Контакты</title><link>/ru/page/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ru/page/contacts/</guid><description>Свяжись с нами:
 lumikellokuopio@gmail.com
 @vkontakte https://vk.com/lumikellory
 @facebook https://www.facebook.com/lumikellory/
-тел. 0401504151</description>
-    </item>
-    
-    <item>
-      <title>О нас</title>
-      <link>/ru/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/page/about/</guid>
-      <description>Lumikello ry &amp;mdash; это общественная организация, созданная для реализации благотворительных целей.
+тел. 0401504151</description></item><item><title>О нас</title><link>/ru/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ru/page/about/</guid><description>Lumikello ry &amp;mdash; это общественная организация, созданная для реализации благотворительных целей.
 Мы вместе, потому что способны отозваться на любую беду как на свою, потому что хотим превратить сочувствие в содействие, потому что для нас чужой беды не бывает…
 Мы готовы помогать детям, молодежи и инвалидам, попавшим в трудную жизненную ситуацию.
-Об организации Наша работа в Lumikello ry строится на добровольной основе. Каждый участвует в деятельности исходя из своих собственных ресурсов, желаний и позитивного настроя.</description>
-    </item>
-    
-    <item>
-      <title>Партнёры</title>
-      <link>/ru/page/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/page/partners/</guid>
-      <description>  Материнское сердце     Город Куопио     STEA     SVK    </description>
-    </item>
-    
-    <item>
-      <title>Устав</title>
-      <link>/ru/page/statute/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ru/page/statute/</guid>
-      <description>Наименование и место нахождения организации
+Об организации Наша работа в Lumikello ry строится на добровольной основе. Каждый участвует в деятельности исходя из своих собственных ресурсов, желаний и позитивного настроя.</description></item><item><title>Партнёры</title><link>/ru/page/partners/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ru/page/partners/</guid><description> Материнское сердце Город Куопио STEA SVK</description></item><item><title>Устав</title><link>/ru/page/statute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ru/page/statute/</guid><description>Наименование и место нахождения организации
 Наименование организации - Зарегистрированное объединение «Лумикелло» (Lumikello ry), местонахождение - город Куопио.
- Цель и характер деятельности
-Зарегистрированное объединение «Лумикелло» (Lumikello ry) не связано с политикой и религией. Оно поддерживает детей, молодежь и инвалидов, живущих в особо тяжелых условиях, и стремится способствовать осуществлению их прав в Финляндии и сопредельных государствах. Наша концепция - это рост благосостояния детей, молодежи и инвалидов, осуществление права на жизнь, защиту, развитие и участие каждого человека.</description>
-    </item>
-    
-  </channel>
-</rss>
+Цель и характер деятельности
+Зарегистрированное объединение «Лумикелло» (Lumikello ry) не связано с политикой и религией. Оно поддерживает детей, молодежь и инвалидов, живущих в особо тяжелых условиях, и стремится способствовать осуществлению их прав в Финляндии и сопредельных государствах. Наша концепция - это рост благосостояния детей, молодежи и инвалидов, осуществление права на жизнь, защиту, развитие и участие каждого человека.</description></item></channel></rss>

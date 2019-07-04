@@ -1,82 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Lumikello ry</title>
-    <link>/en/page/</link>
-    <description>Recent content in Pages on Lumikello ry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language>
-    
-	<atom:link href="/en/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About us</title>
-      <link>/en/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/page/about/</guid>
-      <description>Lumikello ry &amp;mdash; это общественная организация, созданная для реализации благотворительных целей.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Lumikello ry</title><link>/en/page/</link><description>Recent content in Pages on Lumikello ry</description><generator>Hugo -- gohugo.io</generator><language>fi</language><atom:link href="/en/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About us</title><link>/en/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/page/about/</guid><description>Lumikello ry &amp;mdash; это общественная организация, созданная для реализации благотворительных целей.
 Мы вместе, потому что способны отозваться на любую беду как на свою, потому что хотим превратить сочувствие в содействие, потому что для нас чужой беды не бывает…
 Мы готовы помогать детям, молодежи и инвалидам, попавшим в трудную жизненную ситуацию.
-Об организации Наша работа в Lumikello ry строится на добровольной основе. Каждый участвует в деятельности исходя из своих собственных ресурсов, желаний и позитивного настроя.</description>
-    </item>
-    
-    <item>
-      <title>Calendar</title>
-      <link>/en/page/calendar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/page/calendar/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Contacts</title>
-      <link>/en/page/contacts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/page/contacts/</guid>
-      <description>@facebook &amp;ndash; https://www.facebook.com/lumikellory/</description>
-    </item>
-    
-    <item>
-      <title>Partners</title>
-      <link>/en/page/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/page/partners/</guid>
-      <description>  Mother&amp;#39;s Heart     City of Kuopio     STEA     SVK    </description>
-    </item>
-    
-    <item>
-      <title>Statute</title>
-      <link>/en/page/statute/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/page/statute/</guid>
-      <description>Наименование и место нахождения организации
+Об организации Наша работа в Lumikello ry строится на добровольной основе. Каждый участвует в деятельности исходя из своих собственных ресурсов, желаний и позитивного настроя.</description></item><item><title>Calendar</title><link>/en/page/calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/page/calendar/</guid><description/></item><item><title>Contacts</title><link>/en/page/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/page/contacts/</guid><description>@facebook &amp;ndash; https://www.facebook.com/lumikellory/</description></item><item><title>Partners</title><link>/en/page/partners/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/page/partners/</guid><description> Mother&amp;#39;s Heart City of Kuopio STEA SVK</description></item><item><title>Statute</title><link>/en/page/statute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/page/statute/</guid><description>Наименование и место нахождения организации
 Наименование организации - Зарегистрированное объединение «Лумикелло» (Lumikello ry), местонахождение - город Куопио.
- Цель и характер деятельности
-Зарегистрированное объединение «Лумикелло» (Lumikello ry) не связано с политикой и религией. Оно поддерживает детей, молодежь и инвалидов, живущих в особо тяжелых условиях, и стремится способствовать осуществлению их прав в Финляндии и сопредельных государствах. Наша концепция - это рост благосостояния детей, молодежи и инвалидов, осуществление права на жизнь, защиту, развитие и участие каждого человека.</description>
-    </item>
-    
-    <item>
-      <title>Tietosuojaseloste - Jäsenrekisteri</title>
-      <link>/en/page/dataprotection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/page/dataprotection/</guid>
-      <description>Rekisterinpitäjä ja yhteyshenkilö
+Цель и характер деятельности
+Зарегистрированное объединение «Лумикелло» (Lumikello ry) не связано с политикой и религией. Оно поддерживает детей, молодежь и инвалидов, живущих в особо тяжелых условиях, и стремится способствовать осуществлению их прав в Финляндии и сопредельных государствах. Наша концепция - это рост благосостояния детей, молодежи и инвалидов, осуществление права на жизнь, защиту, развитие и участие каждого человека.</description></item><item><title>Tietosuojaseloste - Jäsenrekisteri</title><link>/en/page/dataprotection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/page/dataprotection/</guid><description>Rekisterinpitäjä ja yhteyshenkilö
 Rekisterinpitäjä: Lumikello ry, Y-tunnus 2819071-5 (&amp;ldquo;Yhdistys&amp;rdquo;)
 Osoite: Lumikello ry, Retiisikatu 2-4 N 54, 70820 Kuopio
 Sähköposti: lumikellokuopio@gmail.com
 Yhteyshenkilö: Valentina Proshkina
- Rekisteröidyt
+Rekisteröidyt
 Rekisterissä käsitellään Yhdistyksen jäsenien ja sen entisten jäsenien, Yhdistyksen asiakkaiden, Yhdistyksen toimintaan liittyvien organisaatioiden yhteyshenkilöiden sekä sen luottamushenkilöiden henkilötietoja (”Rekisteröity”).
- Henkilötietojen käsittelyn peruste ja käyttötarkoitus
-Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description>
-    </item>
-    
-  </channel>
-</rss>
+Henkilötietojen käsittelyn peruste ja käyttötarkoitus
+Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description></item></channel></rss>

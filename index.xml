@@ -1,212 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lumikello ry</title>
-    <link>/</link>
-    <description>Recent content on Lumikello ry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language>
-    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Öljymaalaustyöpaja</title>
-      <link>/project/art-studio/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/art-studio/</guid>
-      <description>Öljymaalaustyöpaja - ART-terapia. Haluaisitko kenties tehdä elämäsi paremmaksi? Jakaa lämpöä ja rakkautta ympärillesi? Elää mukavuudessa ja tuntea harmoniaa? Haluaisitko kehittää omia kykyjäsi – ja olla jo ylipäänsä tuhlaamatta elämäsi arvokasta aikaa? Arjen harmauden ja työpäivien kiireen keskellä, meiltä jää usein huomaamatta ne henkilökohtaiset piilevät taiteelliset kyvyt, jotka meissä jokaisessa on. Miten siis voisimme saavuttaa ne kyvyt?
-Yksi ratkaisu voisi olla ART-terapia. Sen tarkoituksena on aktivoida visuaalisista havainnoista reagoivia aivoalueita. Lisääntyvän aktiivisuuden tuloksena näillä aivoalueilla syntyy uusia luovia ajatuksia ja ideoita, aukeaa uudenlainen laajempi maailma ja voimme elää omalla tavallamme täyttä elämää.</description>
-    </item>
-    
-    <item>
-      <title>Lasten tanssistudio</title>
-      <link>/project/dance-school/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/dance-school/</guid>
-      <description>Tervetuloa Anna Koskin tanssikouluun!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lumikello ry</title><link>/</link><description>Recent content on Lumikello ry</description><generator>Hugo -- gohugo.io</generator><language>fi</language><lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Öljymaalaustyöpaja</title><link>/project/art-studio/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/art-studio/</guid><description>Öljymaalaustyöpaja - ART-terapia. Haluaisitko kenties tehdä elämäsi paremmaksi? Jakaa lämpöä ja rakkautta ympärillesi? Elää mukavuudessa ja tuntea harmoniaa? Haluaisitko kehittää omia kykyjäsi – ja olla jo ylipäänsä tuhlaamatta elämäsi arvokasta aikaa? Arjen harmauden ja työpäivien kiireen keskellä, meiltä jää usein huomaamatta ne henkilökohtaiset piilevät taiteelliset kyvyt, jotka meissä jokaisessa on. Miten siis voisimme saavuttaa ne kyvyt?
+Yksi ratkaisu voisi olla ART-terapia. Sen tarkoituksena on aktivoida visuaalisista havainnoista reagoivia aivoalueita. Lisääntyvän aktiivisuuden tuloksena näillä aivoalueilla syntyy uusia luovia ajatuksia ja ideoita, aukeaa uudenlainen laajempi maailma ja voimme elää omalla tavallamme täyttä elämää.</description></item><item><title>Lasten tanssistudio</title><link>/project/dance-school/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/dance-school/</guid><description>Tervetuloa Anna Koskin tanssikouluun!
 Lastentanssi-ilmaisu: 3-4 vuotiaat Lapsi täyttää 3-4 vuotta vuoden loppuun menessä
 Leikinomaisessa muodossa tutustutaan tanssin perusteisiin, työskentelyyn ryhmässä, parin kanssa ja yksetellen. Opitaan hahmottamaan muotoa, tilaa, musiikkia ja rytmiä. Jokaisella oppitunnilla on luova osuus, jossa saa tanssin keinoin ilmaista omia tunteitaan ja ajatuksiaan kannustavassa ilmapiirissä. Tanssileikkitunneilta saa hyvät valmiudet jatkaa tanssiharrastusta niin lasten luovan tanssin ja lasten baletin kuin muillakin tunneilla 5 vuotiaana.
-3-4 vuotialla on yksi 45 minuutin tanssintunti kerran viikossa.</description>
-    </item>
-    
-    <item>
-      <title>Tavara-apu Karjalaan</title>
-      <link>/project/direct-aid/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/direct-aid/</guid>
-      <description>Yksi Lumikello ry:n päätoiminnoista on humanitarisen avun keräily ja toimittaminen venäläisten lastenkotien lapsille.
+3-4 vuotialla on yksi 45 minuutin tanssintunti kerran viikossa.</description></item><item><title>Tavara-apu Karjalaan</title><link>/project/direct-aid/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/direct-aid/</guid><description>Yksi Lumikello ry:n päätoiminnoista on humanitarisen avun keräily ja toimittaminen venäläisten lastenkotien lapsille.
 Monilta teistä löytyy pieniksi jääneitä vaatteita, mutta aina on lapsia, joille nekin olisivat tarpeen.
 Mikäli te haluatte auttaa lapsia antamalla tavara-apua, muistuttaisimme muutamasta asiasta:
- Lelujen pitää olla ehjiä, siistejä ja toimivia.
- Voitte antaa myös ns.kehittäviä lelujakin, kuten esim. helistimiä( jotka saavat olla muovia tai kumia, mutta ehdottomasti pestäviä) myös musiikkileluja, hienomotoriikkaleluja jne.
- Lastenkodit eivät ota vastaan pehmoleluja, koska niitä ei voi desinfoida.</description>
-    </item>
-    
-    <item>
-      <title>Suomi sujuvaksi</title>
-      <link>/project/finnish-advanced/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/finnish-advanced/</guid>
-      <description>Ilmiselvästi Suomessa olisi nyt tarvetta kehittää parempia ja tuloksiltaan tehokkaampia suomen kielen kursseja maahanmuuttajille, jotka haluaisivat päästä osaksi suomalaista yhteiskuntaa.
- Lumikello ry tarjoaa suomen kielen kursseja Suomen venäjänkielisille. Tukikielenä on venäjä. Tällaisia kursseja ei ole Kuopiossa. Suoritetun kyselyn perusteella 87% venäjänkielisistä (ks liite.) eivät ole tyytyväisiä omaan kielitaitoonsa. Palautettujen kyselylomakkeiden vastausten mukaan he pitävät oman työttömyytensä syynä mm.puutteellista kielitaitoaan (reilut 75%). Maahanmuuton nykytilanteen takia kielikurssit tarjoavat kansalaisuuksien edustajille suomen kielellä.</description>
-    </item>
-    
-    <item>
-      <title>Keramiikkakurssi    &#34;Lateramin&#34;</title>
-      <link>/project/porcelain-studio/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/porcelain-studio/</guid>
-      <description>​Keramiikkakurssilla me tutustutaan erilaisiin teknikkoihin käsinrakentamisesta muovailukoneeseen.
+Lelujen pitää olla ehjiä, siistejä ja toimivia.
+Voitte antaa myös ns.kehittäviä lelujakin, kuten esim. helistimiä( jotka saavat olla muovia tai kumia, mutta ehdottomasti pestäviä) myös musiikkileluja, hienomotoriikkaleluja jne.
+Lastenkodit eivät ota vastaan pehmoleluja, koska niitä ei voi desinfoida.</description></item><item><title>Suomi sujuvaksi</title><link>/project/finnish-advanced/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/finnish-advanced/</guid><description>Ilmiselvästi Suomessa olisi nyt tarvetta kehittää parempia ja tuloksiltaan tehokkaampia suomen kielen kursseja maahanmuuttajille, jotka haluaisivat päästä osaksi suomalaista yhteiskuntaa.
+ Lumikello ry tarjoaa suomen kielen kursseja Suomen venäjänkielisille. Tukikielenä on venäjä. Tällaisia kursseja ei ole Kuopiossa. Suoritetun kyselyn perusteella 87% venäjänkielisistä (ks liite.) eivät ole tyytyväisiä omaan kielitaitoonsa. Palautettujen kyselylomakkeiden vastausten mukaan he pitävät oman työttömyytensä syynä mm.puutteellista kielitaitoaan (reilut 75%). Maahanmuuton nykytilanteen takia kielikurssit tarjoavat kansalaisuuksien edustajille suomen kielellä.</description></item><item><title>Keramiikkakurssi &#34;Lateramin&#34;</title><link>/project/porcelain-studio/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/porcelain-studio/</guid><description>​Keramiikkakurssilla me tutustutaan erilaisiin teknikkoihin käsinrakentamisesta muovailukoneeseen.
 Käytössämme on myös kipsimuotteja, joiden avulla saa nopeasti hyvät astiat. Opettelemme myös erilaisia koristeluteknikoita: leimasimet, lasitteiden ja enkopien käyttö jne.
 Joka toinen viikko on dreijauskurssi.
 Opetus tapahtuu pienissä ryhmässä 8-10 henk.
 Savi ​Savi on kiinnostava luonnonmateriaali, jota on helppoa muokata haluamaasi muotoon.
 Savi on pehmeä ja muistaa tekijänsä kädenjäljen, mutta polttoon jälkeen plastinen savi muuttuu kivenkovaksi.
-Näin syntyvät uniikkiesineet. Keramiikkakurssilla tehdään savesta niin veistoksia kuin käyttöesineitäkin.</description>
-    </item>
-    
-    <item>
-      <title>&#34;Nuori ja Terve Kuopio 2018&#34; </title>
-      <link>/project/nuori-ja-terve-kuopio-2018/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0300</pubDate>
-      
-      <guid>/project/nuori-ja-terve-kuopio-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#34;Venäjän kieli ja kulttuuri&#34; studio lapsille. </title>
-      <link>/project/ru-culture-studio/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/ru-culture-studio/</guid>
-      <description>«Русский язык — один из богатейших языков в мире, в этом нет никакого сомнения»
+Näin syntyvät uniikkiesineet. Keramiikkakurssilla tehdään savesta niin veistoksia kuin käyttöesineitäkin.</description></item><item><title>&#34;Nuori ja Terve Kuopio 2018&#34;</title><link>/project/nuori-ja-terve-kuopio-2018/</link><pubDate>Sat, 29 Jun 2019 00:00:00 +0300</pubDate><guid>/project/nuori-ja-terve-kuopio-2018/</guid><description/></item><item><title>&#34;Venäjän kieli ja kulttuuri&#34; studio lapsille.</title><link>/project/ru-culture-studio/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/ru-culture-studio/</guid><description>«Русский язык — один из богатейших языков в мире, в этом нет никакого сомнения»
 В. Г. Белинский
- SIVUT ON TULOSSA</description>
-    </item>
-    
-    <item>
-      <title>Teatteri-studio &#34;Ilman rajoja&#34; </title>
-      <link>/project/theatre/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/theatre/</guid>
-      <description>SIVUT ON TULOSSA
+SIVUT ON TULOSSA</description></item><item><title>Teatteri-studio &#34;Ilman rajoja&#34;</title><link>/project/theatre/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/theatre/</guid><description>SIVUT ON TULOSSA
 Театр-студия «Без границ» &amp;mdash; это многокультурный и многоязычный любительский театр для подростков иммигрантов, организованный в Lumikello ry, развивающийся уже не первый год. Изначально инициатива и вся деятельность принадлежала увлеченному и преданному театральному искусству человеку Екатерине Пастуховой, но с развитием деятельности, увеличивается и количество потребностей, целей и задач, таких как поиск помещений и площадок для выступлений, финансирование, в реализации которых нужна поддержка и помощь.
-​В театре-студии подростки посвящают себя творческой деятельности, у них формируется собственное отношение к жизни через познание ситуаций игры на сцене перед аудиторией.</description>
-    </item>
-    
-    <item>
-      <title>Somatiikka</title>
-      <link>/project/somatics/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/somatics/</guid>
-      <description>Sivut on tulossa</description>
-    </item>
-    
-    <item>
-      <title>Kansainvälinen leiri</title>
-      <link>/project/adaptation-camp/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/adaptation-camp/</guid>
-      <description>SIVUT ON TULOSSA
-На данный момент в разработке находится проект организации летнего адаптационного лагеря для детей-сирот и детей-инвалидов на территории Финляндии.</description>
-    </item>
-    
-    <item>
-      <title>Harrastuksen aloittaminen</title>
-      <link>/page/beginner/</link>
-      <pubDate>Sat, 22 Dec 2018 16:30:39 +0200</pubDate>
-      
-      <guid>/page/beginner/</guid>
-      <description>Ohjeita kerhoon/studioon tulijoille Lumikello ry (Yhdistys) tarjoa laadukkaita ja monipuolisia lapsille, nuorille ja vanhemmille vapaa-ajan aktiviteettejä (kerhot, studiot, mestarikurssit) ja erilaisia kulttuuritapahtumia maahanmuuttajataustaisen lasten ja nuorten integroimiseksi nykyaikaiseen suomalaiseen yhteiskuntaan.
-Löytäessäsi sopivan kerhon ilmoittaudu hakemuksen kautta valitsemaasi ryhmään. Kerhonmaksu tulee maksaa heti kauden alussa. Mikäli lapsi/nuori lopettaa ryhmässä, hänen tulee ilmoittaa siitä välittömästi yhdistyksen toimistolle [lumikellokuopio@gmail.com](). Kerhonmaksu palautetaan, mikäli peruutusilmoitus on tehty viimeistään viikko ennen kerhon alkua. Tämän jälkeen kerhonmaksuja ei palauteta kuin lääkärintodistusta vastaan.</description>
-    </item>
-    
-    <item>
-      <title>Kalenteri</title>
-      <link>/page/calendar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/calendar/</guid>
-      <description>Ollaan lomalla 1.6.-10.8. välisenä aikana. Kiitos :)
- </description>
-    </item>
-    
-    <item>
-      <title>Me</title>
-      <link>/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/about/</guid>
-      <description>Yhdistyksellä tehdään työtä vapaaehtoistoiminnan kautta. Jokaisella vapaaehtoisella on mahdollisuus ja oikeus osallistua toimintaan omien voimavarojen, toiveiden sekä positiivisten asenteiden mukaan.
+​В театре-студии подростки посвящают себя творческой деятельности, у них формируется собственное отношение к жизни через познание ситуаций игры на сцене перед аудиторией.</description></item><item><title>Somatiikka</title><link>/project/somatics/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/somatics/</guid><description>Sivut on tulossa</description></item><item><title>Kansainvälinen leiri</title><link>/project/adaptation-camp/</link><pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate><guid>/project/adaptation-camp/</guid><description>SIVUT ON TULOSSA
+На данный момент в разработке находится проект организации летнего адаптационного лагеря для детей-сирот и детей-инвалидов на территории Финляндии.</description></item><item><title>Harrastuksen aloittaminen</title><link>/page/beginner/</link><pubDate>Sat, 22 Dec 2018 16:30:39 +0200</pubDate><guid>/page/beginner/</guid><description>Ohjeita kerhoon/studioon tulijoille Lumikello ry (Yhdistys) tarjoa laadukkaita ja monipuolisia lapsille, nuorille ja vanhemmille vapaa-ajan aktiviteettejä (kerhot, studiot, mestarikurssit) ja erilaisia kulttuuritapahtumia maahanmuuttajataustaisen lasten ja nuorten integroimiseksi nykyaikaiseen suomalaiseen yhteiskuntaan.
+Löytäessäsi sopivan kerhon ilmoittaudu hakemuksen kautta valitsemaasi ryhmään. Kerhonmaksu tulee maksaa heti kauden alussa. Mikäli lapsi/nuori lopettaa ryhmässä, hänen tulee ilmoittaa siitä välittömästi yhdistyksen toimistolle [lumikellokuopio@gmail.com](). Kerhonmaksu palautetaan, mikäli peruutusilmoitus on tehty viimeistään viikko ennen kerhon alkua. Tämän jälkeen kerhonmaksuja ei palauteta kuin lääkärintodistusta vastaan.</description></item><item><title>Kalenteri</title><link>/page/calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/calendar/</guid><description>Ollaan lomalla 1.6.-10.8. välisenä aikana. Kiitos :)</description></item><item><title>Me</title><link>/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/about/</guid><description>Yhdistyksellä tehdään työtä vapaaehtoistoiminnan kautta. Jokaisella vapaaehtoisella on mahdollisuus ja oikeus osallistua toimintaan omien voimavarojen, toiveiden sekä positiivisten asenteiden mukaan.
 Yhdistystoiminnan alkuvaiheessa panostetaan projektityön ideointiin, yhteistyökumppaneiden etsimiseen, suhteiden luomiseen sekä erilaisten vapaa-ajan ja koulutustilaisuuksien järjestämiseen.
 Kiitollisena otetaan vastaan teidän ehdotuksia ja toiveita, avoimella mielellä aloitetaan yhteistyötä ja verkostoidutaan.
-Jos haluat sekä olet valmis auttamaan vaikeassa elämäntilanteessa olevia ihmisiä, haluat vaikuttaa karjalaisten orpolasten, lapsiperheiden ja vammaisten elämän laadun ja hyvinvoinnin parantamiseen tule mukaan ja ole aktiivinen!</description>
-    </item>
-    
-    <item>
-      <title>Perustamiskirja</title>
-      <link>/page/statute/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/statute/</guid>
-      <description>Lumikello ry
+Jos haluat sekä olet valmis auttamaan vaikeassa elämäntilanteessa olevia ihmisiä, haluat vaikuttaa karjalaisten orpolasten, lapsiperheiden ja vammaisten elämän laadun ja hyvinvoinnin parantamiseen tule mukaan ja ole aktiivinen!</description></item><item><title>Perustamiskirja</title><link>/page/statute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/statute/</guid><description>Lumikello ry
 Säännöt
 1. Yhdistyksen nimi ja kotipaikka
 Yhdistyksen nimi on Lumikello ry
 ja sen kotipaikka on Kuopion kaupunki
 2. Tarkoitus ja toiminnan laatu
-Lumikello ry poliittisesti ja uskonnollisesti sitoutumaton järjestö, joka tukee erityisesti vaikeissa oloissa eläviä lapsia, nuoria ja vammaisia, ja pyrkii edistämään heidän oikeuksien toteutumista Suomessa ja naapurimaissa. Visionamme on lasten, nuorten ja vammaisten hyvinvoinnin edistyminen, jossa toteutuu jokaisen ihmisen oikeus elämään, suojeluun, kehittymiseen ja osallistumiseen. Tehtävänämme on parantaa sitä tapaa, jolla lapsia, nuoria ja vammaisia kohdellaan sekä saada aikaan välittömiä ja pysyviä parannuksia heidän elämään.</description>
-    </item>
-    
-    <item>
-      <title>Tietosuojaseloste - Jäsenrekisteri</title>
-      <link>/page/dataprotection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/dataprotection/</guid>
-      <description>Rekisterinpitäjä ja yhteyshenkilö
+Lumikello ry poliittisesti ja uskonnollisesti sitoutumaton järjestö, joka tukee erityisesti vaikeissa oloissa eläviä lapsia, nuoria ja vammaisia, ja pyrkii edistämään heidän oikeuksien toteutumista Suomessa ja naapurimaissa. Visionamme on lasten, nuorten ja vammaisten hyvinvoinnin edistyminen, jossa toteutuu jokaisen ihmisen oikeus elämään, suojeluun, kehittymiseen ja osallistumiseen. Tehtävänämme on parantaa sitä tapaa, jolla lapsia, nuoria ja vammaisia kohdellaan sekä saada aikaan välittömiä ja pysyviä parannuksia heidän elämään.</description></item><item><title>Tietosuojaseloste - Jäsenrekisteri</title><link>/page/dataprotection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/dataprotection/</guid><description>Rekisterinpitäjä ja yhteyshenkilö
 Rekisterinpitäjä: Lumikello ry, Y-tunnus 2819071-5 (&amp;ldquo;Yhdistys&amp;rdquo;)
 Osoite: Lumikello ry, Retiisikatu 2-4 N 54, 70820 Kuopio
 Sähköposti: lumikellokuopio@gmail.com
 Yhteyshenkilö: Valentina Proshkina
- Rekisteröidyt
+Rekisteröidyt
 Rekisterissä käsitellään Yhdistyksen jäsenien ja sen entisten jäsenien, Yhdistyksen asiakkaiden, Yhdistyksen toimintaan liittyvien organisaatioiden yhteyshenkilöiden sekä sen luottamushenkilöiden henkilötietoja (”Rekisteröity”).
- Henkilötietojen käsittelyn peruste ja käyttötarkoitus
-Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description>
-    </item>
-    
-    <item>
-      <title>Yhteistiedot</title>
-      <link>/page/contacts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/contacts/</guid>
-      <description>Ota yhteyttä:
+Henkilötietojen käsittelyn peruste ja käyttötarkoitus
+Rekisterin käyttötarkoituksena on Rekisteröityjen henkilötietojen ajantasainen hallinta jäsenyyden ja asiakkuuden aikana, sen ylläpito ja kehittäminen sekä markkinointi että [suoramarkkinointi] ja myös päättyneiden jäsenyyksien dokumentaation hallinta henkilötietojärjestelmässä (”Järjestelmä”).</description></item><item><title>Yhteistiedot</title><link>/page/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/contacts/</guid><description>Ota yhteyttä:
 lumikellokuopio@gmail.com
 @vkontakte https://vk.com/lumikellory
 @facebook https://www.facebook.com/lumikellory/
-puh. 0401504151</description>
-    </item>
-    
-    <item>
-      <title>Yhteistyökumppanit</title>
-      <link>/page/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/partners/</guid>
-      <description>  Äidin sydän     Kuopion Kaupunki     STEA     SVK    </description>
-    </item>
-    
-  </channel>
-</rss>
+puh. 0401504151</description></item><item><title>Yhteistyökumppanit</title><link>/page/partners/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/partners/</guid><description> Äidin sydän Kuopion Kaupunki STEA SVK</description></item></channel></rss>

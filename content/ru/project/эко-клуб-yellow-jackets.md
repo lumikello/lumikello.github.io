@@ -1,8 +1,8 @@
 +++
 date = "2018-12-22T00:00:00+02:00"
-description = "Эко клуб для детей 5-11 лет в Куопио! ![](/uploads/ЛОГОТИП.jpg)"
-picture = ""
-title = "Эко клуб \"Yellow jackets\""
+description = "Эко-клуб для детей 5–11 лет в Куопио!"
+picture = "/uploads/ЛОГОТИП.jpg"
+title = "Эко-клуб \"Yellow jackets\""
 weight = 3
 
 +++

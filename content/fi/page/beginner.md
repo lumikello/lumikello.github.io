@@ -12,7 +12,7 @@ Löytäessäsi sopivan kerhon ilmoittaudu hakemuksen kautta valitsemaasi ryhmä�
 
 Yhdistys pidättää oikeudet muutoksiin (lukujärjestys, kerhonpaikat ja ajankohdat).
 
-Yhdistys ei korvaa kertoja, jotka joudutaan perumaan esim. kaupungin peruttua tilavuoron tai muusta ns. ulkoisesta tekijästä johtuvasta syystä. Syksylle taataan 14 ja keväälle 15 harjoituskertaa. Mikäli kerhon tapaamiset joudutaan perumaan paljon eivätkä luvatut kerrat toteudu, järjestetään korvaavia kertoja. Korvaavat kerrat voidaan järjestää eri viikonpäivänä, kellonaikana tai toisessa paikassa tai varsinaisen kauden jo loputtua.
+Yhdistys ei korvaa kertoja, jotka joudutaan perumaan esim. kaupungin peruttua tilavuoron tai muusta ns. ulkoisesta tekijästä johtuvasta syystä. Mikäli kerhon tapaamiset joudutaan perumaan paljon, eivätkä luvatut kerrat toteudu, järjestetään korvaavia kertoja. Korvaavat kerrat voidaan järjestää eri viikonpäivänä, kellonaikana tai toisessa paikassa tai varsinaisen kauden jo loputtua.
 
 Yhdistys voi harkintansa mukaan velvoittaa vanhemmat järjestämään kerholaisille avustajan kerhon ajaksi, mikäli kerholainen toistuvasti vaarantaa oman tai toisten lasten tai ohjaajan turvallisuuden tai työrauhan. Avustajan tehtävänä on valvoa, että kerholainen noudattaa ohjeita ja sääntöjä. Mikäli kerholainen toistuvasti rikkoo Yhdistyksen ja kerhon sääntöjä hänet voidaan erottaa. Yhdistys ei palauta kerhonmaksua.
 

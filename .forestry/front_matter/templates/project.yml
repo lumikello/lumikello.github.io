@@ -30,6 +30,7 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/ru/project/porcelain-studio.md
 - content/ru/project/dance-school.md
 - content/ru/project/somatics.md
 - content/fi/project/nuori-ja-terve-kuopio-2018.md
@@ -58,4 +59,3 @@ pages:
 - content/en/project/finnish-advanced.md
 - content/ru/project/direct-aid.md
 - content/en/project/direct-aid.md
-- content/ru/project/porcelain-studio.md

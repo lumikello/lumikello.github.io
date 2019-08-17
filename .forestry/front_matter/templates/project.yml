@@ -30,6 +30,7 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/ru/project/dance-school.md
 - content/ru/project/somatics.md
 - content/fi/project/nuori-ja-terve-kuopio-2018.md
 - content/ru/project/эко-клуб-yellow-jackets.md
@@ -45,7 +46,6 @@ pages:
 - content/fi/project/theatre.md
 - content/ru/project/theatre.md
 - content/ru/project/ru-culture-studio.md
-- content/ru/project/dance-school.md
 - content/fi/project/ru-culture-studio.md
 - content/fi/project/art-studio.md
 - content/en/project/somatics.md

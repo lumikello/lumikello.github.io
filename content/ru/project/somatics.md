@@ -12,19 +12,19 @@ weight = 9
 
 ## Информация о курсе
 
-Открыт набор в группу осень 2019! 
+Открыт набор в группу осень 2019!
 
-Занятия по субботам в 10.00. 
+Занятия по субботам в 10.00.
 
-Комплекс из 10 занятий. Стоимость 80€ курс. 
+Комплекс из 10 занятий. Стоимость 80€ курс.
 
-Начало занятий 22 сентября (суббота 19.10 занятий нет - каникулы). 
+Начало занятий 22 сентября (суббота 19.10 занятий нет - каникулы).
 
-Адрес: Alava toimintakeskus liikuntasali, Keihäskatu 5, 70620 Kuopio. 
+Адрес: Alava toimintakeskus liikuntasali, Keihäskatu 5, 70620 Kuopio.
 
 Преподаватель: Irina Svorjova -- Somatic Movement Educator, Clinical Somatic Educator, Osteopat.
 
-Запись на занятия через анкету: [https://forms.gle/3UbCw4899aJWKhKB9](https://forms.gle/3UbCw4899aJWKhKB9 "https://forms.gle/3UbCw4899aJWKhKB9")
+Запись на занятия через [анкету](https://forms.gle/3UbCw4899aJWKhKB9)
 
 ## О методе
 

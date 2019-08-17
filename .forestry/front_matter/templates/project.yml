@@ -30,9 +30,9 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/ru/project/somatics.md
 - content/ru/project/porcelain-studio.md
 - content/ru/project/dance-school.md
-- content/ru/project/somatics.md
 - content/fi/project/nuori-ja-terve-kuopio-2018.md
 - content/ru/project/эко-клуб-yellow-jackets.md
 - content/fi/project/adaptation-camp.md

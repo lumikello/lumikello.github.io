@@ -30,6 +30,7 @@ fields:
   label: Picture
   name: picture
 pages:
+- content/ru/project/art-studio.md
 - content/ru/project/direct-aid.md
 - content/ru/project/somatics.md
 - content/ru/project/porcelain-studio.md
@@ -52,7 +53,6 @@ pages:
 - content/fi/project/art-studio.md
 - content/en/project/somatics.md
 - content/en/project/art-studio.md
-- content/ru/project/art-studio.md
 - content/en/project/dance-school.md
 - content/en/project/theatre.md
 - content/en/project/adaptation-camp.md

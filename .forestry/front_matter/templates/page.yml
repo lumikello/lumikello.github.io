@@ -13,5 +13,5 @@ fields:
   config:
     required: true
 pages:
-- content/ru/все-способы-помочь.md
 - content/fi/page/statute.md
+- content/ru/все-способы-помочь.md

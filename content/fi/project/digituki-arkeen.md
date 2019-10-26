@@ -2,7 +2,7 @@
 date = "2019-10-26T00:00:00+03:00"
 description = "Hankkeen tavoitteena on lisätä venäjänkielisten maahanmuuttajien ja venäjänkielisten yhdistysten toimijoiden tietoisuutta digitalisaatiosta ja sähköisestä asioinnista sekä vahvistaa niiden teknisiä taitoja ja osallisuutta tuleviin digitaalisiin muutoksiin."
 draft = true
-picture = ""
+picture = "/uploads/image001.png"
 title = "Digituki arkeen"
 weight = 1
 
@@ -33,11 +33,11 @@ Hankkeen aikana rakennetaan Digituen verkosto paikallisten venäjänkielisten yh
 * **Webinaarit ja videoluennot**
 
   Lyhyiden videoluennoiden avulla näytämme ja opetamme, miten käytetään erilaisia sähköisiä palveluita. Webinaarit ovat suunnattu pääosin venäjänkielisten yhdistysten edustajille, joita koulutetaan itsenäisesti toimiviksi digiohjaajiksi.
-
-
 * **Venäjänkielinen Digi-sivusto**
 
   Venäjänkieliselle sivustolle luomme ajankohtaista tietokantaa sähköisistä palveluista. Kerromme digitalisaatiossa tapahtuvista muutoksista ja mahdollisuuksista.
 * **Oppaat ja materiaalit**
 
   Julkaisemme vuosiesitteen, jossa kerrotaan hankkeen toiminnasta ja saavutuksista. Kehitämme selkokielellä opastusmateriaalia teknisestä tuesta sekä loppukäyttäjille että digineuvonnan ohjaajille.
+
+![](/uploads/image001.png)![](/uploads/image002.jpg)

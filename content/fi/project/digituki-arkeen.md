@@ -39,4 +39,4 @@ Hankkeen aikana rakennetaan Digituen verkosto paikallisten venäjänkielisten yh
 
   Julkaisemme vuosiesitteen, jossa kerrotaan hankkeen toiminnasta ja saavutuksista. Kehitämme selkokielellä opastusmateriaalia teknisestä tuesta sekä loppukäyttäjille että digineuvonnan ohjaajille.
 
-![](/uploads/image001.png)![](/uploads/image002.jpg)
+![](/uploads/digituki-arkeet.png)

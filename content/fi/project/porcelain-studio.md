@@ -1,5 +1,5 @@
 +++
-date = "2018-11-11"
+date = 2018-11-11T00:00:00Z
 description = "Lapsille tarkoitettu keramiikkatyöpaja, jossa tutustutaan erilaisiin saviteknikoihin dreijauksesta käsinrakentamiseen. "
 picture = "/uploads/porcelain-studio.jpg"
 title = "Keramiikkakurssi    \"Lateramin\""
@@ -54,10 +54,6 @@ Muut materiaalit kuten savi ja metallilangat voi ostaa suoraan pajalta: 10kg sav
 Neulamäen Nuorisotalo
 
 Tiistai     16.00-18.00
-
-Jynkän Monari ​
-
-Torstai 15.30-17.30
 
 Männistön Nuorisotalo
 

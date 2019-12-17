@@ -1,20 +1,20 @@
 +++
-date = "2018-11-11"
+date = 2018-11-11T00:00:00Z
 description = "Lasten tanssistudio on leikkin, luovuden ja liikumisen ilo. Tanssistudion tavoitteena on kehittää hyvää ryhtiä, joustavuutta, sekä fyysistä toimintakykyä."
 picture = "/uploads/dance-school.jpg"
 title = "Lasten tanssistudio"
 weight = 2
 
 +++
-Tervetuloa Anna Koskin tanssikouluun! 
+Tervetuloa Anna Koskin tanssikouluun!
 
-####  Lastentanssi-ilmaisu: 3-4 vuotiaat
+#### Lastentanssi-ilmaisu: 3-4 vuotiaat
 
 Lapsi täyttää 3-4 vuotta vuoden loppuun menessä
 
 Leikinomaisessa muodossa tutustutaan tanssin perusteisiin, työskentelyyn ryhmässä, parin kanssa ja yksetellen. Opitaan hahmottamaan muotoa, tilaa, musiikkia ja rytmiä. Jokaisella oppitunnilla on luova osuus, jossa saa tanssin keinoin ilmaista omia tunteitaan ja ajatuksiaan kannustavassa ilmapiirissä. Tanssileikkitunneilta saa hyvät valmiudet jatkaa tanssiharrastusta niin lasten luovan tanssin ja lasten baletin kuin muillakin tunneilla 5 vuotiaana.
 
-3-4 vuotialla on yksi 45 minuutin tanssintunti kerran viikossa. 
+3-4 vuotialla on yksi 45 minuutin tanssintunti kerran viikossa.
 
 #### Perusopinnot  (luova tanssi): 5-7 vuotiaat
 
@@ -24,6 +24,6 @@ Tunti tarjoaa tanssi-ilmaisua ja tekniikkaa ikäkaudelle sopivassa muodossa. Tut
 
 #### Tanssin perusteet 8-10 vuotiaat
 
-Oppitunnit sisältävät perusteita klassisesta baletista ja luovia harjoitteita skä elementteja eri maiden kansantansseista. Tunneilla opitaan myös kehonhuoltoa ja tanssitietoutta. Harjoitellaan klassisen baletin perusliikkeita tanko- ja keskilattialla sekä tilan läpi liikkuvia tanssiliikkeita ja hyppyjä..Opiskellaan oikean kehon asennon löytymista, lihasvoimaa ja notkeutta, harjoitellaan musikaalista liikkeen suorittamista ja rytmin hahmottamista.
+Oppitunnit sisältävät perusteita klassisesta baletista ja luovia harjoitteita skä elementteja eri maiden kansantansseista. Tunneilla opitaan myös kehonhuoltoa ja tanssitietoutta. Harjoitellaan klassisen baletin perusliikkeita tanko- ja keskilattialla sekä tilan läpi liikkuvia tanssiliikkeita ja hyppyjä. Opiskellaan oikean kehon asennon löytymista, lihasvoimaa ja notkeutta, harjoitellaan musikaalista liikkeen suorittamista ja rytmin hahmottamista.
 
 8-10 vuotiailla on 60 minuutin tanssitunti kerran viikossa.

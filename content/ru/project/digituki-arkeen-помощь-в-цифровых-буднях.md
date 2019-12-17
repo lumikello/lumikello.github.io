@@ -17,6 +17,10 @@ weight = 1
 
 Наша задача - сделать современные цифровые услуги более доступными и удобными для русскоязычных жителей Финляндии. 
 
+![](/uploads/Digineuvonta_Kela_Kuopio.jpg)
+
+![](/uploads/75349205_2555892447834362_4708814715256569856_o.jpg)
+
 **Партнеры проекта:** 
 
 ![](/uploads/Kela-logo.jpg)![](/uploads/TE_palvelut_uusi.jpg)![](/uploads/image001.png)

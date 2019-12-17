@@ -53,7 +53,7 @@ Männistön Nuorisotalo
 
 Facebook: https://www.facebook.com/albina.ponnio.9
 
-Для записи на курс, пожалуйста заполните [анкету:](https://forms.gle/xuvpVBuwR9thT1KXA)
+Для записи на курс, пожалуйста заполните [анкету](https://forms.gle/xuvpVBuwR9thT1KXA)
 
 Организатор курса --- Lumikello ry
 

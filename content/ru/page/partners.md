@@ -1,9 +1,8 @@
 +++
-title = "Партнёры"
 slug = "partners"
+title = "Партнёры"
 
 +++
-
 <div class="cards-grid">
 
 {{< card src="/uploads/title_r.gif" url="http://daridobro.com/" title="Карельский региональный благотворительный фонд «Материнское сердце»" link="Материнское сердце" >}}
@@ -13,5 +12,9 @@ slug = "partners"
 {{< card src="/uploads/STEA_logo.png" url="https://www.stea.fi" title="STEA" link="STEA" >}}
 
 {{< card src="/uploads/SVK_logo.png" url="http://www.svkeskus.fi/fi/" title="SVK" link="SVK" >}}
+
+![](/uploads/TE_palvelut_uusi.jpg)
+
+![](/uploads/Kela-logo.jpg)
 
 </div>

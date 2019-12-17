@@ -13,4 +13,8 @@ title = "Yhteistyökumppanit"
 
 {{< card src="/uploads/SVK_logo.png" url="http://www.svkeskus.fi/fi/" title="SVK" link="SVK" >}}
 
+![](/uploads/TE_palvelut_uusi.jpg)
+
+![](/uploads/Kela-logo.jpg)
+
 </div>

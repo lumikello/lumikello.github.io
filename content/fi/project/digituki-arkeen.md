@@ -1,8 +1,8 @@
 +++
-date = "2019-10-26T00:00:00+03:00"
+date = 2019-10-25T21:00:00Z
 description = "Hankkeen tavoitteena on lisätä venäjänkielisten maahanmuuttajien ja venäjänkielisten yhdistysten toimijoiden tietoisuutta digitalisaatiosta ja sähköisestä asioinnista sekä vahvistaa niiden teknisiä taitoja ja osallisuutta tuleviin digitaalisiin muutoksiin."
 picture = "/uploads/image001.png"
-title = "Digituki arkeen"
+title = "Digituki arkeen Kuopio"
 weight = 1
 
 +++

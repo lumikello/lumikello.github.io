@@ -25,6 +25,12 @@ weight = 1
 
 ![](/uploads/77420029_2593306144092992_2035711054016675840_n.jpg)
 
-**Партнеры проекта:** 
+**ИНФОРМАЦИОННЫЕ МАТЕРИАЛЫ:** 
+
+![](/uploads/76782738_2593308467426093_5788265676074385408_o.jpg)
+
+[Инструкция](https://drive.google.com/drive/u/0/folders/1lLHTgeBEcSYVXPJ1vd_acVkLxFGYgV2M) 
+
+**ПАРТНЕРЫ ПРОЕКТА:** 
 
 ![](/uploads/Kela-logo.jpg)![](/uploads/TE_palvelut_uusi.jpg)![](/uploads/image001.png)

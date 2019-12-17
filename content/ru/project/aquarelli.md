@@ -14,4 +14,4 @@ weight = 4
 
 Стоимость одного занятия 5€ (материалы включены). На данный момент обсуждается возможность семейной скидки. Добро пожаловать!
 
-Для записи в группу заполните, пожалуйста, [aнкету](https://goo.gl/forms/wNCAjCsOWaL33YSf2).
+Для записи в группу заполните, пожалуйста, [aнкету](https://goo.gl/forms/wNCAjCsOWaL33YSf2) или свяжитесь с педагогом: [https://www.facebook.com/natasha.kartysheva](https://www.facebook.com/natasha.kartysheva "https://www.facebook.com/natasha.kartysheva")

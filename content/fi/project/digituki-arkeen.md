@@ -6,15 +6,15 @@ title = "Digituki arkeen Kuopio"
 weight = 1
 
 +++
-### **Hankkeen tarkoitus ja tavoitteet**
+### Hankkeen tarkoitus ja tavoitteet
 
 “Digituki arkeen Kuopio”- hankkeen toiminnan tavoitteena on lisätä venäjänkielisten kuopiolaisten tietoisuutta digitalisaatiosta ja sähköisestä asioinnista sekä vahvistaa niiden digitaitoja ja osallisuutta tuleviin tietoyhteiskunnan muutoksiin. Projektin toiminnalla pyritään selvittämään syrjäytymisen vaarassa olevien venäjänkielisten kuopiolaisten tarpeita ja vastaamaan niihin asiakaslähtöisesti tarjoamalla matalan kynnyksen tukea digitalisoitumiseen arkeen.
 
-#### Toiminnan kohderyhmät
+### Toiminnan kohderyhmät
 
 * Venäjänkieliset maahanmuuttajat, joilla on puuttuvaa osaamista suomen kielestä tai kokemusta sähköisten palvelujen käytöstä, erityisesti vasta muuttaneet, heikosti koulutetut, työttömät ja ikäihmiset.
 
-# Hankkeen toteuttaminen
+### Hankkeen toteuttaminen
 
 ***
 

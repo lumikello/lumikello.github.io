@@ -8,35 +8,18 @@ weight = 1
 +++
 ### **Hankkeen tarkoitus ja tavoitteet**
 
-Hankkeen tavoitteena on lisätä venäjänkielisten maahanmuuttajien ja venäjänkielisten yhdistysten toimijoiden tietoisuutta digitalisaatiosta ja sähköisestä asioinnista sekä vahvistaa niiden teknisiä taitoja ja osallisuutta tuleviin digitaalisiin muutoksiin.
-
-Hankkeen toiminnalla pyritään vastaamaan asiakaslähtöisesti ja joustavasti esille nouseviin tarpeisiin ja toteuttamaan tarpeellisiksi koettuja matalankynnyksen digitaalisen tuen ja asioinnin palveluja.
-
-Hankkeen aikana rakennetaan Digituen verkosto paikallisten venäjänkielisten yhdistysten kanssa, luodaan ja jatkuvasti päivitetään ajankohtaista tietokantaa digitaalisista palveluista venäjän kielellä. Rakennetaan yhteistyösuhteet valtakunnallisten järjestöjen, kirjastojen, kuntien, sekä muiden viranomaisten ja Suomen Venäjänkielisten Keskusjärjestön välillä.
+“Digituki arkeen Kuopio”- hankkeen toiminnan tavoitteena on lisätä venäjänkielisten kuopiolaisten tietoisuutta digitalisaatiosta ja sähköisestä asioinnista sekä vahvistaa niiden digitaitoja ja osallisuutta tuleviin tietoyhteiskunnan muutoksiin. Projektin toiminnalla pyritään selvittämään syrjäytymisen vaarassa olevien venäjänkielisten kuopiolaisten tarpeita ja vastaamaan niihin asiakaslähtöisesti tarjoamalla matalan kynnyksen tukea digitalisoitumiseen arkeen.
 
 #### Toiminnan kohderyhmät
 
 * Venäjänkieliset maahanmuuttajat, joilla on puuttuvaa osaamista suomen kielestä tai kokemusta sähköisten palvelujen käytöstä, erityisesti vasta muuttaneet, heikosti koulutetut, työttömät ja ikäihmiset.
-* Venäjänkieliset yhdistykset, aktivistit ja vapaaehtoiset, joita koulutetaan hankkeen aikana itsenäiseksi toimiviksi digineuvonnan ohjaajiksi
 
 # Hankkeen toteuttaminen
 
 ***
 
-* **Online-digitulkki**
+Toiminta toteutetaan eri muodoissa yhteistyössä viranomaisten kanssa. Vuoden 2020 aikana aiomme järjestämään 8-10 infotilaisuutta, joiden tavoitteena on lisätä venäjänkielisten asukkaiden tietoisuutta viranomaisten toiminnasta ja Kuopion kaupungin palveluista. Infotilaisuuksissa kerrotaan, miten käytetään sähköisiä palveluja ja toimitaan siltana viranomaisten ja venäjänkielisten maahanmuuttajien välillä. Tilaisuuksissa tavoitetaan noin 25 ihmistä/ kertaa. Infotilaisuuksia varten tuotamme yleishyödyllistä materiaalia, joka on kaikkien käytettävissä tapaamiskerran jälkeen.
 
-  Online-digitulkki on reaaliaikainen internetin välityksellä toimiva keskustelupalvelu. Digitulkin avulla tarjoamme tukea Suomen viranomaisasioinnin digitaalisten palveluiden käytössä venäjänkielisille käyttäjille, joilla on puuttuvaa teknistä tai suomen kielen osaamista.
-* **Ryhmäkoulutukset**
+Infotilaisuuksia lisäksi aiomme järjestämään digineuvontaa Kelan ja Te-palveluiden tiloissa. Digineuvonta järjestetään kuukausittain yhteistyössä viranomaisten kanssa ja sillä pyritään vastaamaan asiakkaiden jokapäiväisiin digitalisaatioiden tarpeisiin.
 
-  Yhteistyössä Helmet kirjastojen kanssa järjestämme ryhmäkoulutukset ikäihmisille. Käymme läpi tietotekniikan ja mobiililaiteiden perusteet ja pyrimme ratkaisemaan niiden käytössä ilmenevät ongelmat.
-* **Webinaarit ja videoluennot**
-
-  Lyhyiden videoluennoiden avulla näytämme ja opetamme, miten käytetään erilaisia sähköisiä palveluita. Webinaarit ovat suunnattu pääosin venäjänkielisten yhdistysten edustajille, joita koulutetaan itsenäisesti toimiviksi digiohjaajiksi.
-* **Venäjänkielinen Digi-sivusto**
-
-  Venäjänkieliselle sivustolle luomme ajankohtaista tietokantaa sähköisistä palveluista. Kerromme digitalisaatiossa tapahtuvista muutoksista ja mahdollisuuksista.
-* **Oppaat ja materiaalit**
-
-  Julkaisemme vuosiesitteen, jossa kerrotaan hankkeen toiminnasta ja saavutuksista. Kehitämme selkokielellä opastusmateriaalia teknisestä tuesta sekä loppukäyttäjille että digineuvonnan ohjaajille.
-
-![](/uploads/digituki-arkeet.png)
+![](/uploads/Kela-logo.jpg)![](/uploads/TE_palvelut_uusi.jpg)![](/uploads/digituki-arkeet.png)

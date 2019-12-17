@@ -31,6 +31,8 @@ weight = 1
 
 [Инструкция](https://drive.google.com/drive/u/0/folders/1lLHTgeBEcSYVXPJ1vd_acVkLxFGYgV2M) 
 
+Изменение процента подоходного налога в личном кабинете vero.fi: [Инструкция](https://drive.google.com/drive/u/0/folders/1lLHTgeBEcSYVXPJ1vd_acVkLxFGYgV2M) 
+
 **ПАРТНЕРЫ ПРОЕКТА:** 
 
 ![](/uploads/Kela-logo.jpg)![](/uploads/TE_palvelut_uusi.jpg)![](/uploads/image001.png)

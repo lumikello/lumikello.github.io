@@ -18,6 +18,14 @@ weight = 3
 * развить воображение и восприятие красоты природы через художественное творчество, поэзию, рисование, экологический театр
 * научить практическим навыкам о том, какие растения можно собирать, как использовать природные материалы в декоре и быту, как помогать животным, ухаживать и наблюдать а ними, как сортировать и убирать мусор, как охранять редких животных  и т.д.
 
+Внимание! Открыта запись в группу! Первые занятия уже в субботу 25 января! Стоимость занятий на весну 2020 80€.
+
+![](/uploads/Eco club.jpg)
+
+Запись в клуб: [https://forms.gle/WfftiExPtocTMa4V7](https://forms.gle/WfftiExPtocTMa4V7 "https://forms.gle/WfftiExPtocTMa4V7")
+
 Количество мест в группах ограничено!
 
-Вся актуальная информация о работе Эко-клуба в [Facebook](https://www.facebook.com/EcoClubYJ/?__tn__=%2Cd%2CP-R&eid=ARAYzPyC18dbiOcg4eltaO55Odd6j15Yix7cs4pTMb0tbUp_s1HrESU3waMY2F-ouxnggWiNrPae-Yxy "Facebook")
+ 
+
+Эко-клуб в [Facebook](https://www.facebook.com/EcoClubYJ/?__tn__=%2Cd%2CP-R&eid=ARAYzPyC18dbiOcg4eltaO55Odd6j15Yix7cs4pTMb0tbUp_s1HrESU3waMY2F-ouxnggWiNrPae-Yxy "Facebook")

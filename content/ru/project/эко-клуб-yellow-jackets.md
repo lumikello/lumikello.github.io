@@ -1,6 +1,6 @@
 +++
 date = 2018-12-21T22:00:00Z
-description = "Эко-клуб для детей 4–11 лет в Куопио!"
+description = "Эко-клуб для детей 5–12 лет в Куопио!"
 picture = "/uploads/yellow_jackets.jpg"
 title = "Эко-клуб \"Yellow jacket\""
 weight = 3
